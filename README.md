@@ -1,420 +1,420 @@
-现代艺术150年全书提及的作品图集，按书本出现顺序。共有图片217张。来源主要为wiki、moma和泰特的官网等，每张图均有链接。
+现代艺术 150 年全书提及的作品图集，按书本出现顺序。共有图片 217 张。来源为 Wiki, MoMA 和泰特的官网等，每张图均有链接。
 
 来自[豆瓣网友](https://book.douban.com/review/8930999/)，原文在有道云笔记，为方便浏览转载至此。
 
 # ZERO
 
-1. Equivalent VIII  等价物 8 1966 （Carl Andre 卡尔·安德烈）
+## 1. Equivalent VIII  等价物 8 1966 （Carl Andre 卡尔·安德烈）
 
-http://www.tate.org.uk/art/artworks/andre-equivalent-viii-t01534
+[作品链接](http://www.tate.org.uk/art/artworks/andre-equivalent-viii-t01534)
 
 ![](./images/1B1EDB90AEE34DA29470B3265CFA5C73.png)
 
 
-2. Puppy 小狗 1992 （Jeff Koons，杰夫·昆斯）
+## 2. Puppy 小狗 1992 （Jeff Koons，杰夫·昆斯）
 
-https://www.guggenheim.org/artwork/48
+[作品链接](https://www.guggenheim.org/artwork/48)
 
 ![](./images/C887C52D7ABB46C3B1103A7CB597F761.png)
 
 
 # ONE
 
-3. Fountain 泉  1917 （Marcel Duchamp, 马塞尔·杜尚）
+## 3. Fountain 泉  1917 （Marcel Duchamp, 马塞尔·杜尚）
 
-https://en.wikipedia.org/wiki/Fountain_(Duchamp)
+[作品链接](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
 
 ![](./images/424E89FF9AF34168941BA09A62B1F3A3.png)
 
 
 # TWO
 
-4. 睡莲  Reflections of Clouds on the Water-Lily Pond，1920 （Claude Monet  克劳德·莫奈）
+## 4. 睡莲  Reflections of Clouds on the Water-Lily Pond，1920 （Claude Monet  克劳德·莫奈）
 
-https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)
+[作品链接](https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series))
 
 ![](./images/6B417857902C418BA5B99FDFAB1C2099.png)
 
 
-5. The Dance Class (La Classe de Danse) 舞蹈课 1874（Edgar Degas 埃德加·德加）
+## 5. The Dance Class (La Classe de Danse) 舞蹈课 1874（Edgar Degas 埃德加·德加）
 
-https://en.wikipedia.org/wiki/The_Ballet_Class_(Degas,_Mus%C3%A9e_d%27Orsay)
+[作品链接](https://en.wikipedia.org/wiki/The_Ballet_Class_(Degas,_Mus%C3%A9e_d%27Orsay))
 
 ![](./images/BED3663AF03D4BF4BE68A955DA6CEAEE.png)
 
 
-6. Hoar Frost, the Old Road to Ennery 白霜，通往埃纳里的老路  1873（Camille Pissarro , 米耶·毕沙罗）
+## 6. Hoar Frost, the Old Road to Ennery 白霜，通往埃纳里的老路  1873（Camille Pissarro , 米耶·毕沙罗）
 
-https://artbookannex.com/tag/ennery/
+[作品链接](https://artbookannex.com/tag/ennery/)
 
 ![](./images/0601F33D633E487B95A38C88A7A5894A.png)
 
 
-7. The Raft of the Medusa 美杜莎之筏 1818-1819（Théodore Géricault, 泰奥多尔·席里柯）
+## 7. The Raft of the Medusa 美杜莎之筏 1818-1819（Théodore Géricault, 泰奥多尔·席里柯）
 
-https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa
+[作品链接](https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa)
 
 ![](./images/935D4FE186E34100AB2D755453B84F7F.png)
 
 
-8. Liberty Leading the People 自由引导人民 1830 （Eugène Delacroix, 欧仁·德拉克罗瓦）
+## 8. Liberty Leading the People 自由引导人民 1830 （Eugène Delacroix, 欧仁·德拉克罗瓦）
 
-https://en.wikipedia.org/wiki/Liberty_Leading_the_People
+[作品链接](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)
 
 ![](./images/0AC7A2444F1049E0AA5232793579E866.png)
 
 
-9. L'Origine du monde ("The Origin of the World") 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
+## 9. L'Origine du monde ("The Origin of the World") 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
 
-https://en.wikipedia.org/wiki/L%27Origine_du_monde
+[作品链接](https://en.wikipedia.org/wiki/L%27Origine_du_monde)
 
 ![](./images/0669D4B5AD424ACBB98540A23F22B2D3.png)
 
 
-10. The Absinthe Drinker (French: Le Buveur d'absinthe)  喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）https://en.wikipedia.org/wiki/The_Absinthe_Drinker_(Manet_painting)
+## 10. The Absinthe Drinker (French: Le Buveur d'absinthe)  喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）https://en.wikipedia.org/wiki/The_Absinthe_Drinker_(Manet_painting)
 
 ![](./images/B9CD46A0D862461E9876026C00AD85FD.png)
 
 
-11. Le Déjeuner sur l'herbe (English: The Luncheon on the Grass)  草地上的午餐 1863 （Édouard Manet, 爱德华·马奈）
+## 11. Le Déjeuner sur l'herbe (English: The Luncheon on the Grass)  草地上的午餐 1863 （Édouard Manet, 爱德华·马奈）
 
-https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe
+[作品链接](https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe)
 
 ![](./images/B7F319EBE2654717B80B96512E18D9A0.png)
 
 
-12. Olympia 奥林匹亚 1863 （Édouard Manet, 爱德华·马奈）
+## 12. Olympia 奥林匹亚 1863 （Édouard Manet, 爱德华·马奈）
 
-https://en.wikipedia.org/wiki/Olympia_(Manet)
+[作品链接](https://en.wikipedia.org/wiki/Olympia_(Manet))
 
 ![](./images/5DDCFF55D0914FAC9A52A3839F05723B.png)
 
 
 # THREE
 
-13. Impression, Sunrise (French: Impression, soleil levant) 1872（Claude Monet  克劳德·莫奈）
+## 13. Impression, Sunrise (French: Impression, soleil levant) 1872（Claude Monet  克劳德·莫奈）
 
  https://en.wikipedia.org/wiki/Impression,_Sunrise
 
 ![](./images/B597DD2C28214100BC74605424B53304.png)
 
 
-14. A Modern Olympia 现代奥林匹亚 1870（Paul Cézanne, 保罗·塞尚）
+## 14. A Modern Olympia 现代奥林匹亚 1870（Paul Cézanne, 保罗·塞尚）
 
-http://www.paulcezanne.org/a-modern-olympia.jsp#prettyPhoto
+[作品链接](http://www.paulcezanne.org/a-modern-olympia.jsp#prettyPhoto)
 
 ![](./images/4C98ECABAA554D419E9EBB792ACBDF18.png)
 
 
-15. Bain à la Grenouillère 青蛙塘 1869 （Claude Monet  克劳德·莫奈）
+## 15. Bain à la Grenouillère 青蛙塘 1869 （Claude Monet  克劳德·莫奈）
 
-https://en.wikipedia.org/wiki/Bain_%C3%A0_la_Grenouill%C3%A8re
+[作品链接](https://en.wikipedia.org/wiki/Bain_%C3%A0_la_Grenouill%C3%A8re)
 
 ![](./images/14FAF363D5CA472BB2EE294D2C1720D2.png)
 
 
-16. La Grenouillère 青蛙塘 1869 （Pierre-Auguste Renoir, 皮埃尔-奥古斯特·雷诺阿）
+## 16. La Grenouillère 青蛙塘 1869 （Pierre-Auguste Renoir, 皮埃尔-奥古斯特·雷诺阿）
 
-https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+[作品链接](https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir)
 
 ![](./images/DE67DF9B8547477DB1E58C2A3C383E2C.png)
 
 
-17. Rain, Steam and Speed – The Great Western Railway  雨、蒸汽和速度 1844 （ J. M. W. Turner, J.M.W 特纳）
+## 17. Rain, Steam and Speed – The Great Western Railway  雨、蒸汽和速度 1844 （ J. M. W. Turner, J.M.W 特纳）
 
-https://en.wikipedia.org/wiki/Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway
+[作品链接](https://en.wikipedia.org/wiki/Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway)
 
 ![](./images/9DD0244891C443DB802094A09796F0D3.png)
 
 
-18. The Thames below Westminster 威斯敏斯特下的泰晤士河 1871 （Claude Monet  克劳德·莫奈）
+## 18. The Thames below Westminster 威斯敏斯特下的泰晤士河 1871 （Claude Monet  克劳德·莫奈）
 
-https://artuk.org/discover/artworks/the-thames-below-westminster-115865
+[作品链接](https://artuk.org/discover/artworks/the-thames-below-westminster-115865)
 
 ![](./images/124584CFEA9443CC8E60239DF4EC1A87.png)
 
 
-19. 神奈川沖浪裏  The Great Wave off Kanagawa 神奈川巨浪  1829-1833 （葛飾北斎，Katsushika Hokusai, 葛饰北斋）
+## 19. 神奈川沖浪裏  The Great Wave off Kanagawa 神奈川巨浪  1829-1833 （葛飾北斎，Katsushika Hokusai, 葛饰北斋）
 
-https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa
+[作品链接](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
 
 ![](./images/413FE42E75C440FCA3C5DC0B3A71EA9A.png)
 
 
-20. 大津駅 Station of Otsu 大津站 1840（安藤 広重, Ando Hiroshige, 安藤广重（后改名 歌川 広重,  Utagawa Hiroshige,  歌川广重））
+## 20. 大津駅 Station of Otsu 大津站 1840（安藤 広重, Ando Hiroshige, 安藤广重（后改名 歌川 広重,  Utagawa Hiroshige,  歌川广重））
 
-https://www.metmuseum.org/toah/works-of-art/JP804/
+[作品链接](https://www.metmuseum.org/toah/works-of-art/JP804/)
 
 ![](./images/E00215996F6246FB98800821A8993E8A.png)
 
 
-21. A Carriage at The Races 赛马场上的马车 1870 （Edgar Degas 埃德加·德加）
+## 21. A Carriage at The Races 赛马场上的马车 1870 （Edgar Degas 埃德加·德加）
 
-https://www.wikiart.org/en/edgar-degas/a-carriage-at-the-races-1872
+[作品链接](https://www.wikiart.org/en/edgar-degas/a-carriage-at-the-races-1872)
 
 ![](./images/7B44B830CCF64B32BACCA0DCAB355860.png)
 
 
 # FOUR
 
-22. The Potato Eaters 吃土豆的人 1885（Vincent Willem van Gogh, 文森特·梵高）
+## 22. The Potato Eaters 吃土豆的人 1885（Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/The_Potato_Eaters
+[作品链接](https://en.wikipedia.org/wiki/The_Potato_Eaters)
 
 ![](./images/61529F0679A14DA68A457359EA7CCEC5.png)
 
 
-23. The Yellow House 黄房子 1888 （Vincent Willem van Gogh, 文森特·梵高）
+## 23. The Yellow House 黄房子 1888 （Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/The_Yellow_House
+[作品链接](https://en.wikipedia.org/wiki/The_Yellow_House)
 
 ![](./images/FE4D0338E94F4F0E8BCA8F61D10A9483.png)
 
 
-24. Still Life With a Plate of Onions 静物：一盘洋葱  1889 （Vincent Willem van Gogh, 文森特·梵高）
+## 24. Still Life With a Plate of Onions 静物：一盘洋葱  1889 （Vincent Willem van Gogh, 文森特·梵高）
 
-https://commons.wikimedia.org/wiki/File:Still_life_with_a_plate_of_onions.jpg
+[作品链接](https://commons.wikimedia.org/wiki/File:Still_life_with_a_plate_of_onions.jpg)
 
 ![](./images/23F05B9093B84F16BB3F502681131B24.png)
 
 
-25. The Sower 播种者 1888（Vincent Willem van Gogh, 文森特·梵高）
+## 25. The Sower 播种者 1888（Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/Vincent_van_Gogh#/media/File:The_Sower.jpg
+[作品链接](https://en.wikipedia.org/wiki/Vincent_van_Gogh#/media/File:The_Sower.jpg)
 
 ![](./images/8B2CA4278CA643A78A8A704BFF3E3B68.png)
 
 
-26. The Night Café 夜间咖啡馆 1888（Vincent Willem van Gogh, 文森特·梵高）
+## 26. The Night Café 夜间咖啡馆 1888（Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/The_Night_Caf%C3%A9
+[作品链接](https://en.wikipedia.org/wiki/The_Night_Caf%C3%A9)
 
 ![](./images/F26D59354B56485C80221667B2C435A1.png)
 
 
-27. Sunflowers 向日葵 1888（Vincent Willem van Gogh, 文森特·梵高）
+## 27. Sunflowers 向日葵 1888（Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/Sunflowers_(Van_Gogh_series)
+[作品链接](https://en.wikipedia.org/wiki/Sunflowers_(Van_Gogh_series))
 
 ![](./images/8006A4104C6F42EBB502911D460AFEEF.png)
 
 
-28. Starry Night Over the Rhône 满天星斗下的罗纳河 1888 （Vincent Willem van Gogh, 文森特·梵高）
+## 28. Starry Night Over the Rhône 满天星斗下的罗纳河 1888 （Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/Starry_Night_Over_the_Rh%C3%B4ne
+[作品链接](https://en.wikipedia.org/wiki/Starry_Night_Over_the_Rh%C3%B4ne)
 
 ![](./images/0A64ED9657B94B3EB4461AC9B7443FA4.png)
 
 
-29. Bedroom in Arles 寝室 1888（Vincent Willem van Gogh, 文森特·梵高）
+## 29. Bedroom in Arles 寝室 1888（Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/Bedroom_in_Arles
+[作品链接](https://en.wikipedia.org/wiki/Bedroom_in_Arles)
 
 ![](./images/63414E1516C444898F52405986D6B83C.png)
 
 
-30. The Scream 呐喊 1893 （Edvard Munch, 爱德华·蒙克）
+## 30. The Scream 呐喊 1893 （Edvard Munch, 爱德华·蒙克）
 
-https://en.wikipedia.org/wiki/The_Scream
+[作品链接](https://en.wikipedia.org/wiki/The_Scream)
 
 ![](./images/B7E1AFC1BFE24B049D10C30245530204.png)
 
 
-31. Study after Velázquez's Portrait of Pope Innocent X 临摹委拉斯开兹的《教皇英诺森十世肖像》1953（Francis Bacon, 弗朗西斯·培根）
+## 31. Study after Velázquez's Portrait of Pope Innocent X 临摹委拉斯开兹的《教皇英诺森十世肖像》1953（Francis Bacon, 弗朗西斯·培根）
 
-https://en.wikipedia.org/wiki/Study_after_Vel%C3%A1zquez%27s_Portrait_of_Pope_Innocent_X
+[作品链接](https://en.wikipedia.org/wiki/Study_after_Vel%C3%A1zquez%27s_Portrait_of_Pope_Innocent_X)
 
 ![](./images/4B57C76A6C93488BBAAA9AF8C7366340.png)
 
 
-32. Homage to Van Gogh 向梵高致敬 1960 （Francis Bacon, 弗朗西斯·培根）
+## 32. Homage to Van Gogh 向梵高致敬 1960 （Francis Bacon, 弗朗西斯·培根）
 
-https://www.artimage.org.uk/3087/francis-bacon/homage-to-van-gogh--1960
+[作品链接](https://www.artimage.org.uk/3087/francis-bacon/homage-to-van-gogh--1960)
 
 ![](./images/8657D2035D4048DDBD54B2CAD14C679B.png)
 
 
-33. Painter on the Road to Tarascon, August 1888 (destroyed by fire in the Second World War) 去往塔拉斯孔路上的画家 1888  （Vincent Willem van Gogh, 文森特·梵高）
+## 33. Painter on the Road to Tarascon, August 1888 (destroyed by fire in the Second World War) 去往塔拉斯孔路上的画家 1888  （Vincent Willem van Gogh, 文森特·梵高）
 
-https://en.wikipedia.org/wiki/Vincent_van_Gogh#/media/File:Vincent_Van_Gogh_0013.jpg
+[作品链接](https://en.wikipedia.org/wiki/Vincent_van_Gogh#/media/File:Vincent_Van_Gogh_0013.jpg)
 
 ![](./images/2D8DFD94E11941DF851374D573DEB95B.png)
 
 
-34. Vision after the Sermon (Jacob Wrestling with the Angel) 布道后的幻象（雅各与天使搏斗） 1888（Paul Gauguin,  保罗·高更） 
+## 34. Vision after the Sermon (Jacob Wrestling with the Angel) 布道后的幻象（雅各与天使搏斗） 1888（Paul Gauguin,  保罗·高更） 
 
-https://en.wikipedia.org/wiki/Vision_After_the_Sermon
+[作品链接](https://en.wikipedia.org/wiki/Vision_After_the_Sermon)
 
 ![](./images/6073D71E2CBD4C6DAA99619F8633AF0E.png)
 
 
-35. No te aha oe riri (Why Are You Angry?), 你为何生气 1896（Paul Gauguin,  保罗·高更） 
+## 35. No te aha oe riri (Why Are You Angry?), 你为何生气 1896（Paul Gauguin,  保罗·高更） 
 
-http://www.artic.edu/aic/collections/artwork/16496
+[作品链接](http://www.artic.edu/aic/collections/artwork/16496)
 
 ![](./images/3E1AD37F5D274BE491CD05C6179282BB.png)
 
 
-36. Bathers at Asnières (French: Une Baignade, Asnières)  阿尼埃尔的浴场 1884（Georges Seurat, 乔治·修拉）
+## 36. Bathers at Asnières (French: Une Baignade, Asnières)  阿尼埃尔的浴场 1884（Georges Seurat, 乔治·修拉）
 
-https://en.wikipedia.org/wiki/Bathers_at_Asni%C3%A8res
+[作品链接](https://en.wikipedia.org/wiki/Bathers_at_Asni%C3%A8res)
 
 ![](./images/CDE46BB4AE8C47A981170AD0E2627696.png)
 
 
-37. A Sunday Afternoon on the Island of La Grande Jatte 大碗岛的星期天下午 1884-1886（Georges Seurat, 乔治·修拉）
+## 37. A Sunday Afternoon on the Island of La Grande Jatte 大碗岛的星期天下午 1884-1886（Georges Seurat, 乔治·修拉）
 
-https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte
+[作品链接](https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte)
 
 ![](./images/1ACF5C2E761B4294A8D2CB5503DCE53C.png)
 
 
 # FIVE
 
-38. Still Life with Apples and Peaches 有苹果和桃子的静物 1905（Paul Cézanne, 保罗·塞尚）
+## 38. Still Life with Apples and Peaches 有苹果和桃子的静物 1905（Paul Cézanne, 保罗·塞尚）
 
-https://www.nga.gov/Collection/art-object-page.45986.html
+[作品链接](https://www.nga.gov/Collection/art-object-page.45986.html)
 
 ![](./images/FE4B2DFFEA814CB8B42826012C136CC4.png)
 
 
-39. Mont Sainte-Victoire with Large Pine 圣维克多山 1887  （Paul Cézanne, 保罗·塞尚）
+## 39. Mont Sainte-Victoire with Large Pine 圣维克多山 1887  （Paul Cézanne, 保罗·塞尚）
 
-https://en.wikipedia.org/wiki/Mont_Sainte-Victoire_with_Large_Pine
+[作品链接](https://en.wikipedia.org/wiki/Mont_Sainte-Victoire_with_Large_Pine)
 
 ![](./images/2ABD1F5C31B248B08A0E4BA473D8997E.png)
 
 
 # SIX
 
-40. The Kiss 吻 1907-1908  （Gustav Klimt,  古斯塔夫·克里姆特） 
+## 40. The Kiss 吻 1907-1908  （Gustav Klimt,  古斯塔夫·克里姆特） 
 
-https://en.wikipedia.org/wiki/The_Kiss_(Klimt)
+[作品链接](https://en.wikipedia.org/wiki/The_Kiss_(Klimt))
 
 ![](./images/0D4756AC7E804298BDC05405188F50E5.png)
 
 
-41. Boats in the Harbour at Collioure 科利乌尔港的船 1905 （André Derain, 安德烈·德兰）
+## 41. Boats in the Harbour at Collioure 科利乌尔港的船 1905 （André Derain, 安德烈·德兰）
 
 ![](./images/5418491054594CAD9AC7169E6FC86F06.png)
 
 
-42. Restaurant de la Machine at Bougival 布吉瓦尔的餐馆 1905（Maurice de Vlaminck, 莫里斯·德·弗拉芒克）
+## 42. Restaurant de la Machine at Bougival 布吉瓦尔的餐馆 1905（Maurice de Vlaminck, 莫里斯·德·弗拉芒克）
 
 ![](./images/EDFF858C032844A7B6D7F0E7A2612117.png)
 
 
-43. Woman with a Hat 戴帽子的妇人 1905 （Henri Matisse, 亨利·马蒂斯）
+## 43. Woman with a Hat 戴帽子的妇人 1905 （Henri Matisse, 亨利·马蒂斯）
 
-https://en.wikipedia.org/wiki/Woman_with_a_Hat
+[作品链接](https://en.wikipedia.org/wiki/Woman_with_a_Hat)
 
 ![](./images/E844C058AF9B462BAA024280C008AB69.png)
 
 
-44. Le bonheur de vivre (The Joy of Life) 生之欢乐 1905-1906 （Henri Matisse, 亨利·马蒂斯）
+## 44. Le bonheur de vivre (The Joy of Life) 生之欢乐 1905-1906 （Henri Matisse, 亨利·马蒂斯）
 
-https://en.wikipedia.org/wiki/Le_bonheur_de_vivre
+[作品链接](https://en.wikipedia.org/wiki/Le_bonheur_de_vivre)
 
 ![](./images/E683E5B6BFFF40429CD1A4F2CBF09F12.png)
 
 
-45. Reciproco Amore 互爱 1589-1595（Agostino Carracci, 阿戈斯蒂诺·卡拉奇）
+## 45. Reciproco Amore 互爱 1589-1595（Agostino Carracci, 阿戈斯蒂诺·卡拉奇）
 
 ![](./images/78FFA25C26894F23905E30EC1AA167A3.jpeg)
 
 
-46. Portrait of Gertrude Stein 格特鲁德·斯泰因肖像 1905-1906 （Pablo Picasso, 巴勃罗·毕加索）
+## 46. Portrait of Gertrude Stein 格特鲁德·斯泰因肖像 1905-1906 （Pablo Picasso, 巴勃罗·毕加索）
 
-https://en.wikipedia.org/wiki/Portrait_of_Gertrude_Stein
+[作品链接](https://en.wikipedia.org/wiki/Portrait_of_Gertrude_Stein)
 
 ![](./images/832B8B982F35401AAB1EF14FF2ACE628.png)
 
 
-47. Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon)  亚维农少女 1907 （Pablo Picasso, 巴勃罗·毕加索）
+## 47. Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon)  亚维农少女 1907 （Pablo Picasso, 巴勃罗·毕加索）
 
-https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon
+[作品链接](https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon)
 
 ![](./images/B27CA5B2BCB045C38DEF73AF309499EB.png)
 
 
-48. A Carnival Evening 狂欢节之夜 1886（Henri Rousseau, 亨利·卢梭）
+## 48. A Carnival Evening 狂欢节之夜 1886（Henri Rousseau, 亨利·卢梭）
 
 ![](./images/A33D749C72164994B8E72829C8C90854.png)
 
 
-49. The Hungry Lion Throws Itself on the Antelope (Le lion ayant faim se jette sur l'antilope)  饿狮猛扑羚羊 1905（Henri Rousseau, 亨利·卢梭）
+## 49. The Hungry Lion Throws Itself on the Antelope (Le lion ayant faim se jette sur l'antilope)  饿狮猛扑羚羊 1905（Henri Rousseau, 亨利·卢梭）
 
-https://en.wikipedia.org/wiki/The_Hungry_Lion_Throws_Itself_on_the_Antelope
+[作品链接](https://en.wikipedia.org/wiki/The_Hungry_Lion_Throws_Itself_on_the_Antelope)
 
 ![](./images/DF8584B961F44565824D6DBED6F4A62D.png)
 
 
-50.  Portrait of a Woman 一个女人的肖像 1895 （Henri Rousseau, 亨利·卢梭）
+## 50.  Portrait of a Woman 一个女人的肖像 1895 （Henri Rousseau, 亨利·卢梭）
 
-https://commons.wikimedia.org/wiki/File:Henri_Rousseau__Portrait_of_a_Woman_(1895).jpg
+[作品链接](https://commons.wikimedia.org/wiki/File:Henri_Rousseau__Portrait_of_a_Woman_(1895).jpg)
 
 ![](./images/D8C6AC5BA50C47DF85C252BA56BFCA59.png)
 
 
-51. The Kiss (French: Le Baiser)  吻 1882（Auguste Rodin, 奥古斯特·罗丹）
+## 51. The Kiss (French: Le Baiser)  吻 1882（Auguste Rodin, 奥古斯特·罗丹）
 
-https://en.wikipedia.org/wiki/The_Kiss_(Rodin_sculpture)
+[作品链接](https://en.wikipedia.org/wiki/The_Kiss_(Rodin_sculpture))
 
 ![](./images/900214D2FDAF40098D6334EA46EBF82C.png)
 
 
-52. The Kiss  吻 1907-1908（Constantin Brâncuși, 康斯坦丁·布朗库西）
+## 52. The Kiss  吻 1907-1908（Constantin Brâncuși, 康斯坦丁·布朗库西）
 
-https://en.wikipedia.org/wiki/The_Kiss_(Br%C3%A2ncu%C8%99i_sculpture)
+[作品链接](https://en.wikipedia.org/wiki/The_Kiss_(Br%C3%A2ncu%C8%99i_sculpture))
 
 ![](./images/AA833701CC3B48369B6F4242961A8263.png)
 
 
-53. Sleeping Muse, 沉睡的缪斯 1910 （Constantin Brâncuși, 康斯坦丁·布朗库西）
+## 53. Sleeping Muse, 沉睡的缪斯 1910 （Constantin Brâncuși, 康斯坦丁·布朗库西）
 
-http://www.artic.edu/aic/collections/artwork/9024
+[作品链接](http://www.artic.edu/aic/collections/artwork/9024)
 
 ![](./images/2A62642890504349ACC9A1DC8153D0E2.png)
 
 
-54. Head 头 1911-1912（Amedeo Modigliani, 阿梅代奥·莫迪利亚尼）
+## 54. Head 头 1911-1912（Amedeo Modigliani, 阿梅代奥·莫迪利亚尼）
 
-https://www.wikiart.org/en/amedeo-modigliani/head
+[作品链接](https://www.wikiart.org/en/amedeo-modigliani/head)
 
 ![](./images/B641129E7667430DA0D6BFF3BA9F0615.png)
 
 
-55. Walking Man I 行走的人1 1960（Alberto Giacometti， 阿尔伯托·贾科梅蒂）
+## 55. Walking Man I 行走的人1 1960（Alberto Giacometti， 阿尔伯托·贾科梅蒂）
 
-https://www.artsy.net/artwork/alberto-giacometti-walking-man-i
+[作品链接](https://www.artsy.net/artwork/alberto-giacometti-walking-man-i)
 
 ![](./images/02ACD1DE9B654D71A2BF3D28C338DB6A.jpeg)
 
 
-56. Spoon Woman勺形女人 1927 （Alberto Giacometti， 阿尔伯托·贾科梅蒂）
+## 56. Spoon Woman勺形女人 1927 （Alberto Giacometti， 阿尔伯托·贾科梅蒂）
 
-http://www.artic.edu/aic/collections/artwork/37761
+[作品链接](http://www.artic.edu/aic/collections/artwork/37761)
 
 ![](./images/0BA44A45C41C403699EA3BB8B6A572DF.png)
 
 
-57. Pierced Form 穿孔之形 1963-1964（Barbara Hepworth, 芭芭拉·赫普沃斯）
+## 57. Pierced Form 穿孔之形 1963-1964（Barbara Hepworth, 芭芭拉·赫普沃斯）
 
-http://www.tate.org.uk/art/artworks/hepworth-pierced-form-t00704
+[作品链接](http://www.tate.org.uk/art/artworks/hepworth-pierced-form-t00704)
 
 ![](./images/EF6CEC44A1C347ABB57A1B396B48C16E.png)
 
 
-58. Pelagos 海洋生物 1946 （Barbara Hepworth, 芭芭拉·赫普沃斯）
+## 58. Pelagos 海洋生物 1946 （Barbara Hepworth, 芭芭拉·赫普沃斯）
 
-http://www.tate.org.uk/art/artworks/hepworth-pelagos-t00699
+[作品链接](http://www.tate.org.uk/art/artworks/hepworth-pelagos-t00699)
 
 ![](./images/B34E35D344B0439A9763CF9D2894BF9F.png)
 
 
-59. Single Form 单一的形式 1961 （Barbara Hepworth, 芭芭拉·赫普沃斯）
+## 59. Single Form 单一的形式 1961 （Barbara Hepworth, 芭芭拉·赫普沃斯）
 
-http://www.tate.org.uk/art/artworks/hepworth-single-form-september-t03143
+[作品链接](http://www.tate.org.uk/art/artworks/hepworth-single-form-september-t03143)
 
 ![](./images/65812AE9262B445ABC8361744EEBF346.png)
 
@@ -422,65 +422,65 @@ http://www.tate.org.uk/art/artworks/hepworth-single-form-september-t03143
 # SEVEN
 
 
-60. Opening of the Fifth Seal 揭开第五印  1608（El Greco, 埃尔·格列柯）
+## 60. Opening of the Fifth Seal 揭开第五印  1608（El Greco, 埃尔·格列柯）
 
-https://en.wikipedia.org/wiki/Opening_of_the_Fifth_Seal
+[作品链接](https://en.wikipedia.org/wiki/Opening_of_the_Fifth_Seal)
 
 ![](./images/490E1EBEC42545AAA419BD4AFCDA193B.png)
 
 
-61. Houses at l'Estaque 埃斯塔克的房子 1908（Georges Braque, 乔治·布拉克）
+## 61. Houses at l'Estaque 埃斯塔克的房子 1908（Georges Braque, 乔治·布拉克）
 
-https://en.wikipedia.org/wiki/Houses_at_l%27Estaque
+[作品链接](https://en.wikipedia.org/wiki/Houses_at_l%27Estaque)
 
 ![](./images/E8BB25EFD8DA4C629441D09E2BBE7E1F.png)
 
 
-62. Violin and Palette 小提琴与调色板 1909（Georges Braque, 乔治·布拉克）
+## 62. Violin and Palette 小提琴与调色板 1909（Georges Braque, 乔治·布拉克）
 
-https://www.wikiart.org/en/georges-braque/violin-and-palette-1909
+[作品链接](https://www.wikiart.org/en/georges-braque/violin-and-palette-1909)
 
 ![](./images/F638F45A09BC4E03833F17A10D23A013.png)
 
 
-63. Still Life with Flowers 静物花卉 1912（Juan Gris, 胡安·格里斯）
+## 63. Still Life with Flowers 静物花卉 1912（Juan Gris, 胡安·格里斯）
 
-https://www.wikiart.org/en/juan-gris/still-life-with-flowers-1912
+[作品链接](https://www.wikiart.org/en/juan-gris/still-life-with-flowers-1912)
 
 ![](./images/5F6559360465470CA708C2E5559A5A35.png)
 
 
-64. Ma Jolie 我的美人 1912（Pablo Picasso, 巴勃罗·毕加索）
+## 64. Ma Jolie 我的美人 1912（Pablo Picasso, 巴勃罗·毕加索）
 
-https://www.moma.org/collection/works/79051
+[作品链接](https://www.moma.org/collection/works/79051)
 
 ![](./images/4B75931B9EAE4DF0846AFA84E70E5D82.png)
 
 
-65. Still-Life with Chair Caning有藤椅的静物 1912（Pablo Picasso, 巴勃罗·毕加索）
+## 65. Still-Life with Chair Caning有藤椅的静物 1912（Pablo Picasso, 巴勃罗·毕加索）
 
-http://www.pablo-ruiz-picasso.net/work-88.php
+[作品链接](http://www.pablo-ruiz-picasso.net/work-88.php)
 
 ![](./images/CB420C006F8746EE9CCB8FD004FFF7F5.png)
 
 
-66. Fruit Dish and Glass 水果盘与玻璃杯  1912 （Georges Braque, 乔治·布拉克）
+## 66. Fruit Dish and Glass 水果盘与玻璃杯  1912 （Georges Braque, 乔治·布拉克）
 
-https://en.wikipedia.org/wiki/Fruit_Dish_and_Glass
+[作品链接](https://en.wikipedia.org/wiki/Fruit_Dish_and_Glass)
 
 ![](./images/12B20ECC9119452582CC46153AA9C3AD.png)
 
 
-67. The Little Fourteen-Year-Old Dancer (French: La Petite Danseuse de Quatorze Ans)  小舞女 1880-1881 （Edgar Degas 埃德加·德加）
+## 67. The Little Fourteen-Year-Old Dancer (French: La Petite Danseuse de Quatorze Ans)  小舞女 1880-1881 （Edgar Degas 埃德加·德加）
 
-https://en.wikipedia.org/wiki/Little_Dancer_of_Fourteen_Years
+[作品链接](https://en.wikipedia.org/wiki/Little_Dancer_of_Fourteen_Years)
 
 ![](./images/D11E81AA81254AD992B085AF4B81870C.png)
 
 
-68. Guitar 吉他 1912（Pablo Picasso, 巴勃罗·毕加索）
+## 68. Guitar 吉他 1912（Pablo Picasso, 巴勃罗·毕加索）
 
-https://www.wikiart.org/en/pablo-picasso/guitar-1912
+[作品链接](https://www.wikiart.org/en/pablo-picasso/guitar-1912)
 
 ![](./images/D3CC12C05EB24814800AABA1A9D52054.png)
 
@@ -488,21 +488,21 @@ https://www.wikiart.org/en/pablo-picasso/guitar-1912
 # EIGHT
 
 
-69. Dynamism of a Dog on a Leash (Italian: Dinamismo di un cane al guinzaglio)拴着皮带的狗的动态 1912（Giacomo Balla, 贾科莫·巴拉）
+## 69. Dynamism of a Dog on a Leash (Italian: Dinamismo di un cane al guinzaglio)拴着皮带的狗的动态 1912（Giacomo Balla, 贾科莫·巴拉）
 
-https://en.wikipedia.org/wiki/Dynamism_of_a_Dog_on_a_Leash
+[作品链接](https://en.wikipedia.org/wiki/Dynamism_of_a_Dog_on_a_Leash)
 
 ![](./images/7B3C4DC6F34A4CE6A82DD8990166ACDF.png)
 
 
-70. Unique Forms of Continuity in Space 空间中连续的唯一形体 1913（UmbertoBoccioni, 翁贝托·薄丘尼）
+## 70. Unique Forms of Continuity in Space 空间中连续的唯一形体 1913（UmbertoBoccioni, 翁贝托·薄丘尼）
 
-https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space
+[作品链接](https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space)
 
 ![](./images/C77E3A55F88B4D57BC944B17CEBADB4B.png)
 
 
-71. States of Mind I: The Farewells  心境I 告别 1911  
+## 71. States of Mind I: The Farewells  心境I 告别 1911  
 
      States of Mind II: Those Who Go 心境II 离开的人 1911
     
@@ -510,11 +510,11 @@ https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space
 
    （UmbertoBoccioni, 翁贝托·薄丘尼）
 
-https://www.wikiart.org/en/umberto-boccioni/states-of-mind-i-the-farewells-1911
+[作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-i-the-farewells-1911)
 
-https://www.wikiart.org/en/umberto-boccioni/states-of-mind-ii-those-who-go-1911
+[作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-ii-those-who-go-1911)
 
-https://www.wikiart.org/en/umberto-boccioni/states-of-mind-iii-those-who-stay-1911-1
+[作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-iii-those-who-stay-1911-1)
 
 ![](./images/3AB8B525D6FE4C48B0B5BCAD1B828B61.png)
 
@@ -525,16 +525,16 @@ https://www.wikiart.org/en/umberto-boccioni/states-of-mind-iii-those-who-stay-19
 ![](./images/E86D8A1ED1AD4B598DB29F46B588DDF7.png)
 
 
-72. L'Équipe de Cardiff 加迪夫队 1913（Robert Delaunay, 罗伯特·德劳内）
+## 72. L'Équipe de Cardiff 加迪夫队 1913（Robert Delaunay, 罗伯特·德劳内）
 
-https://fr.wikipedia.org/wiki/L%27%C3%89quipe_de_Cardiff
+[作品链接](https://fr.wikipedia.org/wiki/L%27%C3%89quipe_de_Cardiff)
 
 ![](./images/06B713576F4845E18BF411E4FE3661E0.png)
 
 
-73. Rock Drill 凿岩机 1913（Jacob Epstein, 雅各·爱泼斯坦）
+## 73. Rock Drill 凿岩机 1913（Jacob Epstein, 雅各·爱泼斯坦）
 
-https://en.wikipedia.org/wiki/Rock_Drill_(Jacob_Epstein)
+[作品链接](https://en.wikipedia.org/wiki/Rock_Drill_(Jacob_Epstein))
 
 ![](./images/302F65AC8EC04E548BE792C29F032B42.png)
 
@@ -542,79 +542,79 @@ https://en.wikipedia.org/wiki/Rock_Drill_(Jacob_Epstein)
 # NINE
 
 
-74. The First Step 第一步 1910（František Kupka, 弗朗齐歇克·库普卡）
+## 74. The First Step 第一步 1910（František Kupka, 弗朗齐歇克·库普卡）
 
-https://www.moma.org/collection/works/79969
+[作品链接](https://www.moma.org/collection/works/79969)
 
 ![](./images/3CB8296DF6924A6C87975FFA055EF8D3.png)
 
 
-75. Disque simultané（Simultaneous Disc）共时的圆盘 1912（Robert Delaunay, 罗伯特·德劳内）
+## 75. Disque simultané（Simultaneous Disc）共时的圆盘 1912（Robert Delaunay, 罗伯特·德劳内）
 
-https://fr.wikipedia.org/wiki/Disque_simultan%C3%A9
+[作品链接](https://fr.wikipedia.org/wiki/Disque_simultan%C3%A9)
 
 ![](./images/8384B8E535AF4C7081B5024F2B7117E1.png)
 
 
-76. München - Planegg I 慕尼黑-普拉内格 1 1901（Wassily Kandinsky, 瓦西里·康定斯基）
+## 76. München - Planegg I 慕尼黑-普拉内格 1 1901（Wassily Kandinsky, 瓦西里·康定斯基）
 
-https://www.akg-images.de/archive/Munchen-%25E2%2580%2593-Planegg-I-2UMDHUORFRFR.html
+[作品链接](https://www.akg-images.de/archive/Munchen-%25E2%2580%2593-Planegg-I-2UMDHUORFRFR.html)
 
 ![](./images/30EC3DE6A01F4D84B01FB03AA63CCED6.png)
 
 
-77. Murnau, Dorfstrasse (A Village Street) 穆尔瑙，乡村道路 1908 （Wassily Kandinsky, 瓦西里·康定斯基）
+## 77. Murnau, Dorfstrasse (A Village Street) 穆尔瑙，乡村道路 1908 （Wassily Kandinsky, 瓦西里·康定斯基）
 
-https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1908,_Murnau,_Dorfstrasse.jpg
+[作品链接](https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1908,_Murnau,_Dorfstrasse.jpg)
 
 ![](./images/10958C0A069F4D639A9AC19E972EA95A.png)
 
 
-78. Kochel - Straight Road 科黑尔，笔直的路 1909（Wassily Kandinsky, 瓦西里·康定斯基）
+## 78. Kochel - Straight Road 科黑尔，笔直的路 1909（Wassily Kandinsky, 瓦西里·康定斯基）
 
-http://www.the-athenaeum.org/art/detail.php?ID=116422
+[作品链接](http://www.the-athenaeum.org/art/detail.php?ID=116422)
 
 ![](./images/801B0F00AE5D4B1A8406DA9DFE0F4603.png)
 
 
-79. Improvisation 4 即兴 4 1909（Wassily Kandinsky, 瓦西里·康定斯基）
+## 79. Improvisation 4 即兴 4 1909（Wassily Kandinsky, 瓦西里·康定斯基）
 
-https://www.wikiart.org/en/wassily-kandinsky/improvisation-4-1909
+[作品链接](https://www.wikiart.org/en/wassily-kandinsky/improvisation-4-1909)
 
 ![](./images/BF2AC1AFBEC445C9995F0EA9EEA2F756.png)
 
 
-80. Impression III (Concert) 印象3（音乐会） 1911 （Wassily Kandinsky, 瓦西里·康定斯基）
+## 80. Impression III (Concert) 印象3（音乐会） 1911 （Wassily Kandinsky, 瓦西里·康定斯基）
 
-https://www.wikiart.org/en/wassily-kandinsky/impression-iii-concert-1911
+[作品链接](https://www.wikiart.org/en/wassily-kandinsky/impression-iii-concert-1911)
 
 ![](./images/42563917FF98404D9620B2F1D52D16BF.png)
 
 
-81. Picture with a Circle  带圆的画 1911 （Wassily Kandinsky, 瓦西里·康定斯基）
+## 81. Picture with a Circle  带圆的画 1911 （Wassily Kandinsky, 瓦西里·康定斯基）
 
-http://www.wassilykandinsky.net/work-432.php
+[作品链接](http://www.wassilykandinsky.net/work-432.php)
 
 ![](./images/A2B3E8BFDB9B4A189A9F897099D02029.png)
 
 
-82. Composition IV 作曲 4 1911（Wassily Kandinsky, 瓦西里·康定斯基）
+## 82. Composition IV 作曲 4 1911（Wassily Kandinsky, 瓦西里·康定斯基）
 
-https://www.wikiart.org/en/wassily-kandinsky/composition-iv-1911
+[作品链接](https://www.wikiart.org/en/wassily-kandinsky/composition-iv-1911)
 
 ![](./images/28C13A7A38CB435C933564E576576AB6.png)
 
 
-83. Composition VII 作曲 7 1913（Wassily Kandinsky, 瓦西里·康定斯基）
+## 83. Composition VII 作曲 7 1913（Wassily Kandinsky, 瓦西里·康定斯基）
 
-http://www.wassilykandinsky.net/work-36.php
+[作品链接](http://www.wassilykandinsky.net/work-36.php)
 
 ![](./images/DEE1A92864534815A0BF887AED3DB92A.png)
 
 
-84. Hammamet with mosque 哈马马特的清真寺 1914（Paul Klee, 保罗·克利）
+## 84. Hammamet with mosque 哈马马特的清真寺 1914（Paul Klee, 保罗·克利）
 
-https://www.wikiart.org/en/paul-klee/hammamet-with-mosque-1914
+[作品链接](https://www.wikiart.org/en/paul-klee/hammamet-with-mosque-1914)
 
 ![](./images/E757B103B0D347AABDAE8481F6278E98.png)
 
@@ -622,49 +622,49 @@ https://www.wikiart.org/en/paul-klee/hammamet-with-mosque-1914
 # TEN
 
 
-85. Cow And Violin 奶牛和小提琴 1913（Kazimir Malevich, 卡济米尔·马列维奇）
+## 85. Cow And Violin 奶牛和小提琴 1913（Kazimir Malevich, 卡济米尔·马列维奇）
 
-http://russianartgallery.org/famous/malevich_cow.htm
+[作品链接](http://russianartgallery.org/famous/malevich_cow.htm)
 
 ![](./images/653A23613A324C81BDCC351BB3E93B76.png)
 
 
-86. Black Square 黑色正方形 1915 （Kazimir Malevich, 卡济米尔·马列维奇）
+## 86. Black Square 黑色正方形 1915 （Kazimir Malevich, 卡济米尔·马列维奇）
 
-https://en.wikipedia.org/wiki/Black_Square_(painting)
+[作品链接](https://en.wikipedia.org/wiki/Black_Square_(painting))
 
 ![](./images/9C8B6666B7364558B51A396DB376DD78.png)
 
 
-87. Suprematist Painting 至上主义 1915 （Kazimir Malevich, 卡济米尔·马列维奇）
+## 87. Suprematist Painting 至上主义 1915 （Kazimir Malevich, 卡济米尔·马列维奇）
 
-http://www.ibiblio.org/eldritch/el/mpix.html
+[作品链接](http://www.ibiblio.org/eldritch/el/mpix.html)
 
 ![](./images/033C38C4D1814509B511F7C53F010B03.png)
 
 
-88. Corner Counter-Relief 1914 角落的反浮雕（Vladimir Tatlin, 弗拉基米尔·塔特林）
+## 88. Corner Counter-Relief 1914 角落的反浮雕（Vladimir Tatlin, 弗拉基米尔·塔特林）
 
-http://rusmuseumvrm.ru/data/collections/sculpture/20/tatlin_ve_uglovoy_kontrrelef_1914/index.php?lang=en
+[作品链接](http://rusmuseumvrm.ru/data/collections/sculpture/20/tatlin_ve_uglovoy_kontrrelef_1914/index.php?lang=en)
 
 ![](./images/5B021D322CFE42CF94F5E3A220015EB8.png)
 
 
-89. Monument to the Third International 第三国际的纪念塔 1919-1920（Vladimir Tatlin, 弗拉基米尔·塔特林）
+## 89. Monument to the Third International 第三国际的纪念塔 1919-1920（Vladimir Tatlin, 弗拉基米尔·塔特林）
 
  https://en.wikipedia.org/wiki/Tatlin%27s_Tower
 
 ![](./images/71EB76D4E7344D7D9B4B0C316FF676C0.png)
 
 
-90. Pure Red Color, Pure Yellow Color, Pure Blue Color 纯红、纯黄和纯蓝 1921（Alexander Rodchenko, 亚历山大·罗琴科）
+## 90. Pure Red Color, Pure Yellow Color, Pure Blue Color 纯红、纯黄和纯蓝 1921（Alexander Rodchenko, 亚历山大·罗琴科）
 
 ![](./images/383247DFC79C447D8D1399C4F9CE91A1.png)
 
 
-91. Beat the Whites with the Red Wedge 以红锲攻打白军 1919（El Lissitzky, 埃尔·利西茨基）
+## 91. Beat the Whites with the Red Wedge 以红锲攻打白军 1919（El Lissitzky, 埃尔·利西茨基）
 
-https://en.wikipedia.org/wiki/Beat_the_Whites_with_the_Red_Wedge
+[作品链接](https://en.wikipedia.org/wiki/Beat_the_Whites_with_the_Red_Wedge)
 
 ![](./images/6364DEF463674A82AED1EB8D684BB23F.png)
 
@@ -672,61 +672,61 @@ https://en.wikipedia.org/wiki/Beat_the_Whites_with_the_Red_Wedge
 # ELEVEN
 
 
-92. Composition C (No.III) with Red, Yellow and Blue构成C（第 3号），红黄蓝 1935（Piet Mondrian, 皮埃特·蒙特里安）
+## 92. Composition C (No.III) with Red, Yellow and Blue构成C（第 3号），红黄蓝 1935（Piet Mondrian, 皮埃特·蒙特里安）
 
-https://theartstack.com/artist/piet-mondrian/composition-c-no-iii-with-red-yellow-and-blue#
+[作品链接](https://theartstack.com/artist/piet-mondrian/composition-c-no-iii-with-red-yellow-and-blue#)
 
 ![](./images/1B10D3220FCA46818C90A7F7D7835EF8.png)
 
 
-93. Evening; Red Tree 夜晚，红树 1908 （Piet Mondrian, 皮埃特·蒙特里安）
+## 93. Evening; Red Tree 夜晚，红树 1908 （Piet Mondrian, 皮埃特·蒙特里安）
 
-https://en.wikipedia.org/wiki/Evening;_Red_Tree
+[作品链接](https://en.wikipedia.org/wiki/Evening;_Red_Tree)
 
 ![](./images/7A9349DC6CA54815BC5F7A6C789285D2.png)
 
 
-94. Gray Tree 灰色的树 1912 （Piet Mondrian, 皮埃特·蒙特里安）
+## 94. Gray Tree 灰色的树 1912 （Piet Mondrian, 皮埃特·蒙特里安）
 
-https://en.wikipedia.org/wiki/Gray_Tree
+[作品链接](https://en.wikipedia.org/wiki/Gray_Tree)
 
 ![](./images/F56C8284B43049FA827575BC4E6703D8.png)
 
 
-95. Blossoming Apple Tree  开花的苹果树 1912 （Piet Mondrian, 皮埃特·蒙特里安）
+## 95. Blossoming Apple Tree  开花的苹果树 1912 （Piet Mondrian, 皮埃特·蒙特里安）
 
-https://en.wikipedia.org/wiki/Evening;_Red_Tree#/media/File:Blossoming_apple_tree,_by_Piet_Mondriaan.jpg
+[作品链接](https://en.wikipedia.org/wiki/Evening;_Red_Tree#/media/File:Blossoming_apple_tree,_by_Piet_Mondriaan.jpg)
 
 ![](./images/6E25D39F325C4FA3BC29E11862BF4D7E.png)
 
 
-96. Tableau No. 2/Composition No. VII 画面 2/构成 7 1913 （Piet Mondrian, 皮埃特·蒙特里安）
+## 96. Tableau No. 2/Composition No. VII 画面 2/构成 7 1913 （Piet Mondrian, 皮埃特·蒙特里安）
 
-https://theartstack.com/artist/piet-mondrian/tableau-no-2-compositio
+[作品链接](https://theartstack.com/artist/piet-mondrian/tableau-no-2-compositio)
 
 ![](./images/757968A216864F6DB1A617FC8B8527F5.png)
 
 
-97. Composition No VI 构成 6 1914 （Piet Mondrian, 皮埃特·蒙特里安）
+## 97. Composition No VI 构成 6 1914 （Piet Mondrian, 皮埃特·蒙特里安）
 
 ![](./images/C21F89FE916145ED9CB2FE6A85AA3973.png)
 
 
-98. Red and Blue Chair 红蓝椅 1923 （Gerrit Rietveld, 赫里特·里特费尔德）
+## 98. Red and Blue Chair 红蓝椅 1923 （Gerrit Rietveld, 赫里特·里特费尔德）
 
-http://www.theartstory.org/movement-de-stijl-artworks.htm
+[作品链接](http://www.theartstory.org/movement-de-stijl-artworks.htm)
 
 ![](./images/C91EB76BC601454186268B50616E6066.png)
 
 
-99. Rietveld Schröder House 施罗德住宅 1924 （Gerrit Rietveld, 赫里特·里特费尔德）
+## 99. Rietveld Schröder House 施罗德住宅 1924 （Gerrit Rietveld, 赫里特·里特费尔德）
 
-https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House
+[作品链接](https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House)
 
 ![](./images/61E6885E9DD746C68CAADE8C6872B83E.png)
 
 
-100. Composition No.1 构成第一号 1920 （Piet Mondrian, 皮埃特·蒙特里安）
+## 100. Composition No.1 构成第一号 1920 （Piet Mondrian, 皮埃特·蒙特里安）
 
 ![](./images/33599F5981484A0BADDD7109AC7ABD12.png)
 
@@ -734,79 +734,79 @@ https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House
 # TWELVE
 
 
-101. Wainwright Building 温赖特大厦 1891（ Dankmar Adler and Louis Sullivan, 阿德勒和路易斯·沙利文）
+## 101. Wainwright Building 温赖特大厦 1891（ Dankmar Adler and Louis Sullivan, 阿德勒和路易斯·沙利文）
 
-https://en.wikipedia.org/wiki/Wainwright_Building
+[作品链接](https://en.wikipedia.org/wiki/Wainwright_Building)
 
 ![](./images/B391FAD170764F388797F22DB3A02EE2.png)
 
 
-102. AEG turbine factory 通用电气涡轮机工厂 1909 （Peter Behrens, 彼特·贝伦斯）
+## 102. AEG turbine factory 通用电气涡轮机工厂 1909 （Peter Behrens, 彼特·贝伦斯）
 
-https://en.wikipedia.org/wiki/AEG_turbine_factory
+[作品链接](https://en.wikipedia.org/wiki/AEG_turbine_factory)
 
 ![](./images/52178FE9213B4E0DB4A3790E4630903F.png)
 
 
-103. Fagus Factory (German:Fagus-Werk）法古斯工厂 1911-1913 （ Walter Gropius and Adolf Meyer, 沃尔特·格罗佩斯，阿道夫·梅耶）
+## 103. Fagus Factory (German:Fagus-Werk）法古斯工厂 1911-1913 （ Walter Gropius and Adolf Meyer, 沃尔特·格罗佩斯，阿道夫·梅耶）
 
-https://en.wikipedia.org/wiki/Fagus_Factory
+[作品链接](https://en.wikipedia.org/wiki/Fagus_Factory)
 
 ![](./images/5A6123510F7C42CFB4C2EC29A73C1B1D.png)
 
 
-104. Self-Portrait as a Soldier 作为一个军人的自画像 1915（Ernst Ludwig Kirchner, 恩斯特·路德维希·凯尔希纳）
+## 104. Self-Portrait as a Soldier 作为一个军人的自画像 1915（Ernst Ludwig Kirchner, 恩斯特·路德维希·凯尔希纳）
 
-https://www.wikiart.org/en/ernst-ludwig-kirchner/self-portrait-as-a-soldier-1915
+[作品链接](https://www.wikiart.org/en/ernst-ludwig-kirchner/self-portrait-as-a-soldier-1915)
 
 ![](./images/01E521F0B82F4BB1B7E418CCE8D4490F.png)
 
 
-105. Hot-Water Jug 1924（Marianne Brandt, 玛丽安·布兰德）
+## 105. Hot-Water Jug 1924（Marianne Brandt, 玛丽安·布兰德）
 
-https://www.moma.org/collection/works/2440
+[作品链接](https://www.moma.org/collection/works/2440)
 
 ![](./images/81CE9A6DECCE4DB1BA7AF7A59311CB11.png)
 
 
-106. Table Lamp 华根菲尔德台灯 1924（Wilhelm Wagenfeld & Carl Jakob Jucker, 威尔赫姆·华根菲尔德，卡尔·朱克）
+## 106. Table Lamp 华根菲尔德台灯 1924（Wilhelm Wagenfeld & Carl Jakob Jucker, 威尔赫姆·华根菲尔德，卡尔·朱克）
 
-https://www.moma.org/collection/works/4056?locale=en
+[作品链接](https://www.moma.org/collection/works/4056?locale=en)
 
 ![](./images/823773F3CBEA4B889263F57856F1EB3A.png)
 
 
-107. EM 1 (Telephone Picture) 电话图 EM1 1923 （László Moholy-Nagy, 莫霍利·纳吉）
+## 107. EM 1 (Telephone Picture) 电话图 EM1 1923 （László Moholy-Nagy, 莫霍利·纳吉）
 
-https://www.moma.org/collection/works/147626
+[作品链接](https://www.moma.org/collection/works/147626)
 
 ![](./images/0185D67001C1470E84E24DDD8F3C2065.png)
 
 
-108.  NESTING TABLES 嵌套桌组 1927 （Josef Albers, 约瑟夫·亚伯斯）
+## 108.  NESTING TABLES 嵌套桌组 1927 （Josef Albers, 约瑟夫·亚伯斯）
 
-https://blog.timelesswroughtiron.com/2014/09/modern-history-bauhaus-nesting-tables/
+[作品链接](https://blog.timelesswroughtiron.com/2014/09/modern-history-bauhaus-nesting-tables/)
 
 ![](./images/1DA34F4E86C74D9F8FB34DDAF9D97A2A.png)
 
 
-109. Wassily Chair 瓦西里椅 1925（Marcel Lajos Breuer, 马塞尔·布劳耶）
+## 109. Wassily Chair 瓦西里椅 1925（Marcel Lajos Breuer, 马塞尔·布劳耶）
 
-https://en.wikipedia.org/wiki/Wassily_Chair
+[作品链接](https://en.wikipedia.org/wiki/Wassily_Chair)
 
 ![](./images/70107B3974BB4B02A4763C5C47005CF7.png)
 
 
-110. Barcelona Pavilion 巴塞罗那世博会德国馆  1929 （Ludwig Mies van der Rohe, 路德维希·密斯·凡德罗）
+## 110. Barcelona Pavilion 巴塞罗那世博会德国馆  1929 （Ludwig Mies van der Rohe, 路德维希·密斯·凡德罗）
 
-https://en.wikipedia.org/wiki/Barcelona_Pavilion
+[作品链接](https://en.wikipedia.org/wiki/Barcelona_Pavilion)
 
 ![](./images/83E85B40DDEA4EDCBED49CF500AE7BC6.png)
 
 
-111. Barcelona Chair 巴塞罗那椅 1929 （Ludwig Mies van der Rohe, 路德维希·密斯·凡德罗）
+## 111. Barcelona Chair 巴塞罗那椅 1929 （Ludwig Mies van der Rohe, 路德维希·密斯·凡德罗）
 
-https://www.moma.org/collection/works/4369?locale=en
+[作品链接](https://www.moma.org/collection/works/4369?locale=en)
 
 ![](./images/0B80354B5DD845D7A625ECCD317A8E24.png)
 
@@ -814,51 +814,51 @@ https://www.moma.org/collection/works/4369?locale=en
 # THIRTEEN
 
 
-112. La Nona Ora (The Ninth Hour) 第九时辰 1999（Maurizio Cattelan, 莫瑞吉奥·卡特兰）
+## 112. La Nona Ora (The Ninth Hour) 第九时辰 1999（Maurizio Cattelan, 莫瑞吉奥·卡特兰）
 
-https://farticulate.wordpress.com/2010/10/21/la-nona-ora-the-ninth-hour-1999/
+[作品链接](https://farticulate.wordpress.com/2010/10/21/la-nona-ora-the-ninth-hour-1999/)
 
 ![](./images/08744987465141129A60D51A4A8EBADD.png)
 
 
-113. Collage with Squares Arranged according to the Laws of Chance 根据随机法则排布的正方形的拼贴画 1916-1917 （Jean （Hans）Arp, 让·阿尔普（汉斯·阿尔普））
+## 113. Collage with Squares Arranged according to the Laws of Chance 根据随机法则排布的正方形的拼贴画 1916-1917 （Jean （Hans）Arp, 让·阿尔普（汉斯·阿尔普））
 
-https://www.moma.org/collection/works/37013?locale=en
+[作品链接](https://www.moma.org/collection/works/37013?locale=en)
 
 ![](./images/14362882BB564419AACCAFDC6EF9F7B8.png)
 
 
-114. Revolving 旋转 1919 （Kurt Schwitters, 库尔特·施维特斯）
+## 114. Revolving 旋转 1919 （Kurt Schwitters, 库尔特·施维特斯）
 
-https://www.moma.org/collection/works/79211?locale=en
+[作品链接](https://www.moma.org/collection/works/79211?locale=en)
 
 ![](./images/7C7739081D774ABE9A51E59E6C0C2006.png)
 
 
-115. Merzbau 梅尔兹堡 1933 （Kurt Schwitters, 库尔特·施维特斯）
+## 115. Merzbau 梅尔兹堡 1933 （Kurt Schwitters, 库尔特·施维特斯）
 
-https://www.moma.org/explore/inside_out/2012/07/09/in-search-of-lost-art-kurt-schwitterss-merzbau/
+[作品链接](https://www.moma.org/explore/inside_out/2012/07/09/in-search-of-lost-art-kurt-schwitterss-merzbau/)
 
 ![](./images/212F88FA27564713A029A7F2A060CCCC.png)
 
 
-116. 3 Standard Stoppages 三个标准的终止 1913-1914（Marcel Duchamp, 马塞尔·杜尚）
+## 116. 3 Standard Stoppages 三个标准的终止 1913-1914（Marcel Duchamp, 马塞尔·杜尚）
 
-https://www.moma.org/collection/works/78990?locale=en
+[作品链接](https://www.moma.org/collection/works/78990?locale=en)
 
 ![](./images/842DBBDFB0D945DDBA022D09FC0D4D5D.png)
 
 
-117. L.H.O.O.Q. 1919 （Marcel Duchamp, 马塞尔·杜尚）
+## 117. L.H.O.O.Q. 1919 （Marcel Duchamp, 马塞尔·杜尚）
 
-https://en.wikipedia.org/wiki/L.H.O.O.Q.
+[作品链接](https://en.wikipedia.org/wiki/L.H.O.O.Q.)
 
 ![](./images/269B573B2BEF4490A743BCA87F13529C.png)
 
 
-118. Beautiful Breath: Veil Water 美丽气息 1921 （Marcel Duchamp, 马塞尔·杜尚）
+## 118. Beautiful Breath: Veil Water 美丽气息 1921 （Marcel Duchamp, 马塞尔·杜尚）
 
-http://www.toutfait.com/unmaking_the_museum/Belle%20Haleine.html
+[作品链接](http://www.toutfait.com/unmaking_the_museum/Belle%20Haleine.html)
 
 ![](./images/ACB08FF0345340909F5C30CE9DA673DB.png)
 
@@ -866,114 +866,114 @@ http://www.toutfait.com/unmaking_the_museum/Belle%20Haleine.html
 # FOURTEEN
 
 
-119. The Persistence of Memory 永恒的记忆 1931（Salvador Dalí, 萨尔瓦多·达利）
+## 119. The Persistence of Memory 永恒的记忆 1931（Salvador Dalí, 萨尔瓦多·达利）
 
-https://www.moma.org/collection/works/79018?locale=en
+[作品链接](https://www.moma.org/collection/works/79018?locale=en)
 
 ![](./images/854C0F6063F449E4878E0E37993AA1F5.png)
 
 
-120. Lobster Telephone 龙虾电话 1936 （Salvador Dalí, 萨尔瓦多·达利）
+## 120. Lobster Telephone 龙虾电话 1936 （Salvador Dalí, 萨尔瓦多·达利）
 
-https://en.wikipedia.org/wiki/Lobster_Telephone
+[作品链接](https://en.wikipedia.org/wiki/Lobster_Telephone)
 
 ![](./images/70281742222E4D32A0D10198996ADCA5.png)
 
 
-121. Maman 妈妈 1999（Louise Bourgeois, 路易丝·布尔乔亚）
+## 121. Maman 妈妈 1999（Louise Bourgeois, 路易丝·布尔乔亚）
 
-https://en.wikipedia.org/wiki/Maman_(sculpture)
+[作品链接](https://en.wikipedia.org/wiki/Maman_(sculpture))
 
 ![](./images/E828900CE0F44AD0B8B733D16CB4ABB0.png)
 
 
-122. The Three Dancers 三个舞蹈者 1925（Pablo Picasso, 巴勃罗·毕加索）
+## 122. The Three Dancers 三个舞蹈者 1925（Pablo Picasso, 巴勃罗·毕加索）
 
-http://www.tate.org.uk/art/artworks/picasso-the-three-dancers-t00729
+[作品链接](http://www.tate.org.uk/art/artworks/picasso-the-three-dancers-t00729)
 
 ![](./images/CC165586210C454987E1FFB14AA440EB.png)
 
 
-123. The Harlequin's Carnival 小丑的狂欢夜 1924-1925（Joan Miró, 胡安·米罗）
+## 123. The Harlequin's Carnival 小丑的狂欢夜 1924-1925（Joan Miró, 胡安·米罗）
 
-https://en.wikipedia.org/wiki/The_Harlequin%27s_Carnival
+[作品链接](https://en.wikipedia.org/wiki/The_Harlequin%27s_Carnival)
 
 ![](./images/EB36CD42916A48FD8E668FE67F201698.png)
 
 
-124. The Elephant Celebes (or short Celebes) 西里伯斯 1921（Max Ernst, 马克斯·恩斯特）
+## 124. The Elephant Celebes (or short Celebes) 西里伯斯 1921（Max Ernst, 马克斯·恩斯特）
 
-https://en.wikipedia.org/wiki/The_Elephant_Celebes
+[作品链接](https://en.wikipedia.org/wiki/The_Elephant_Celebes)
 
 ![](./images/D45DF318C882405A829244AFE7778E2F.png)
 
 
-125. Forest and Dove 森林与鸽子 1927 （Max Ernst, 马克斯·恩斯特）
+## 125. Forest and Dove 森林与鸽子 1927 （Max Ernst, 马克斯·恩斯特）
 
-http://www.tate.org.uk/art/artworks/ernst-forest-and-dove-t00548
+[作品链接](http://www.tate.org.uk/art/artworks/ernst-forest-and-dove-t00548)
 
 ![](./images/E42210B9054344BAA08A660F04F1EF3C.png)
 
 
-126. The Menaced Assassin 受威胁的暗杀者 1927 （René Magritte, 勒内·马格里特）
+## 126. The Menaced Assassin 受威胁的暗杀者 1927 （René Magritte, 勒内·马格里特）
 
-https://www.moma.org/collection/works/79267?locale=zh
+[作品链接](https://www.moma.org/collection/works/79267?locale=zh)
 
 ![](./images/D3E1AA8558174891B190B453D72ECCBB.png)
 
 
-127. The Song of Love 爱之歌 1914（Giorgio de Chirico, 乔治·德·基里科）
+## 127. The Song of Love 爱之歌 1914（Giorgio de Chirico, 乔治·德·基里科）
 
-https://en.wikipedia.org/wiki/The_Song_of_Love
+[作品链接](https://en.wikipedia.org/wiki/The_Song_of_Love)
 
 ![](./images/14B555CEB20C4E0BA3B561F6FC7FFF7B.png)
 
 
-128. Nighthawks 夜鹰 1924（Edward Hopper, 爱德华·霍普）
+## 128. Nighthawks 夜鹰 1924（Edward Hopper, 爱德华·霍普）
 
-https://en.wikipedia.org/wiki/Nighthawks
+[作品链接](https://en.wikipedia.org/wiki/Nighthawks)
 
 ![](./images/4C932B57A0B84B1ABBAEF2FF1997B7B8.png)
 
 
-129. Primacy of Matter over Thought 物质相对于思想的第一性 1929（Man Ray (born Emmanuel Radnitzky）, 曼·雷）
+## 129. Primacy of Matter over Thought 物质相对于思想的第一性 1929（Man Ray (born Emmanuel Radnitzky）, 曼·雷）
 
-https://www.wikiart.org/en/man-ray/primacy-of-matter-over-thought-1929
+[作品链接](https://www.wikiart.org/en/man-ray/primacy-of-matter-over-thought-1929)
 
 ![](./images/711BB25550AD4B5DA017C95A1E05E70C.png)
 
 
-130. Object ("The Luncheon in Fur") 1936（Méret Oppenheim, 莫瑞特·奥本海姆）
+## 130. Object ("The Luncheon in Fur") 1936（Méret Oppenheim, 莫瑞特·奥本海姆）
 
-https://www.moma.org/collection/works/80997?locale=en
+[作品链接](https://www.moma.org/collection/works/80997?locale=en)
 
 ![](./images/EE7371C79C584BE3ACF541BAFA762554.png)
 
 
-131. Erotique voilée 色情的面纱 1933（Man Ray (born Emmanuel Radnitzky）, 曼·雷）
+## 131. Erotique voilée 色情的面纱 1933（Man Ray (born Emmanuel Radnitzky）, 曼·雷）
 
-http://www.museoreinasofia.es/en/collection/artwork/erotique-voilee-veiled-erotic
+[作品链接](http://www.museoreinasofia.es/en/collection/artwork/erotique-voilee-veiled-erotic)
 
 ![](./images/4B2B018323EC4EF2ACDDB44BB65F750D.png)
 
 
-132. The Dream (The Bed) 梦 1940（Frida Kahlo, 弗里达·卡罗）
+## 132. The Dream (The Bed) 梦 1940（Frida Kahlo, 弗里达·卡罗）
 
-https://www.wikiart.org/en/frida-kahlo/the-dream-the-bed-1940
+[作品链接](https://www.wikiart.org/en/frida-kahlo/the-dream-the-bed-1940)
 
 ![](./images/C3AA380E5D954ACDB94FE235C7C0B2AC.png)
 
 
-133. Self Portrait - The Frame 自画像：框架 1938 （Frida Kahlo, 弗里达·卡罗）
+## 133. Self Portrait - The Frame 自画像：框架 1938 （Frida Kahlo, 弗里达·卡罗）
 
-https://www.wikiart.org/en/frida-kahlo/self-portrait-the-frame-1938
+[作品链接](https://www.wikiart.org/en/frida-kahlo/self-portrait-the-frame-1938)
 
 ![](./images/7F0C8DE0B5794054958083ED2C9D2643.png)
 
 
-134. Self-Portrait: The Inn of the Dawn Horse 自画像：黎明马客栈 1937-1938 （Leonora Carrington, 利奥诺拉·卡灵顿）
+## 134. Self-Portrait: The Inn of the Dawn Horse 自画像：黎明马客栈 1937-1938 （Leonora Carrington, 利奥诺拉·卡灵顿）
 
-https://curiator.com/art/leonora-carrington/self-portrait-inn-of-the-dawn-horse
+[作品链接](https://curiator.com/art/leonora-carrington/self-portrait-inn-of-the-dawn-horse)
 
 ![](./images/C3798772A0E5406591CB4962E4F83DD8.png)
 
@@ -981,107 +981,107 @@ https://curiator.com/art/leonora-carrington/self-portrait-inn-of-the-dawn-horse
 # FIFTEEN
 
 
-135. Men in the city 城市里的人 1919（Fernand Léger, 费尔南德·莱热）
+## 135. Men in the city 城市里的人 1919（Fernand Léger, 费尔南德·莱热）
 
-https://www.wikiart.org/en/fernand-leger/men-in-the-city-1919
+[作品链接](https://www.wikiart.org/en/fernand-leger/men-in-the-city-1919)
 
 ![](./images/2B80313395364626898394E4E41FF582.png)
 
 
-136. Bird in Space 空间中的鸟 1928（Constantin Brâncuși, 康斯坦丁·布朗库西）
+## 136. Bird in Space 空间中的鸟 1928（Constantin Brâncuși, 康斯坦丁·布朗库西）
 
-https://www.moma.org/collection/works/81033?locale=en
+[作品链接](https://www.moma.org/collection/works/81033?locale=en)
 
 ![](./images/E36F4C58EB6B47CBA9B3300A7F538750.png)
 
 
-137. Stenographic Figure 速记人物 1942 （Jackson Pollock, 杰克逊·波洛克）
+## 137. Stenographic Figure 速记人物 1942 （Jackson Pollock, 杰克逊·波洛克）
 
-https://www.moma.org/collection/works/79686?locale=en
+[作品链接](https://www.moma.org/collection/works/79686?locale=en)
 
 ![](./images/46D94217515F4836B5523B813D39770A.png)
 
 
-138. Mural 壁画 1943（Jackson Pollock, 杰克逊·波洛克）
+## 138. Mural 壁画 1943（Jackson Pollock, 杰克逊·波洛克）
 
-https://www.wikiart.org/en/jackson-pollock/mural-1943-1
+[作品链接](https://www.wikiart.org/en/jackson-pollock/mural-1943-1)
 
 ![](./images/A45F1330E4A34170B3D76BF210F83E9E.png)
 
 
-139. The She-Wolf 母狼 1943 （Jackson Pollock, 杰克逊·波洛克）
+## 139. The She-Wolf 母狼 1943 （Jackson Pollock, 杰克逊·波洛克）
 
-https://www.moma.org/collection/works/78719?locale=en
+[作品链接](https://www.moma.org/collection/works/78719?locale=en)
 
 ![](./images/9A7DE1DEBD06425FADED0D94F4CC7985.png)
 
 
-140. Full Fathom Five 满五英寻 1947 （Jackson Pollock, 杰克逊·波洛克）
+## 140. Full Fathom Five 满五英寻 1947 （Jackson Pollock, 杰克逊·波洛克）
 
-https://www.moma.org/collection/works/79070?locale=en
+[作品链接](https://www.moma.org/collection/works/79070?locale=en)
 
 ![](./images/8E44D30777D34710A99383AA3B9573DF.png)
 
 
-141. Painting 画 1948 （Willem de Kooning, 威廉·德·库宁）
+## 141. Painting 画 1948 （Willem de Kooning, 威廉·德·库宁）
 
-https://www.moma.org/collection/works/79242?locale=en
+[作品链接](https://www.moma.org/collection/works/79242?locale=en)
 
 ![](./images/7E248A3D8F1144259F68D6E3982151EC.png)
 
 
-142. Excavation 挖掘 1950 （Willem de Kooning, 威廉·德·库宁）
+## 142. Excavation 挖掘 1950 （Willem de Kooning, 威廉·德·库宁）
 
-https://www.wikiart.org/en/willem-de-kooning/excavation
+[作品链接](https://www.wikiart.org/en/willem-de-kooning/excavation)
 
 ![](./images/E3FAFFE8A0954DB0BCF84E09EC864081.png)
 
 
-143. Woman I 女人1 1950-1952 （Willem de Kooning, 威廉·德·库宁）
+## 143. Woman I 女人1 1950-1952 （Willem de Kooning, 威廉·德·库宁）
 
-https://www.moma.org/collection/works/79810?locale=en
+[作品链接](https://www.moma.org/collection/works/79810?locale=en)
 
 ![](./images/7625DB68DCFB4914831675422A28DC8C.png)
 
 
-144. Onement, I 太一 1 1948 （Barnett Newman, 巴尼特·纽曼）
+## 144. Onement, I 太一 1 1948 （Barnett Newman, 巴尼特·纽曼）
 
-https://www.moma.org/collection/works/79601?locale=en
+[作品链接](https://www.moma.org/collection/works/79601?locale=en)
 
 ![](./images/9F3303B7DCE84F35AF36ACB3FCDC24D9.png)
 
 
-145. Vir Heroicus Sublimis 人，英勇而崇高 1950-1951 （Barnett Newman, 巴尼特·纽曼）
+## 145. Vir Heroicus Sublimis 人，英勇而崇高 1950-1951 （Barnett Newman, 巴尼特·纽曼）
 
-https://www.moma.org/collection/works/79250?locale=en
+[作品链接](https://www.moma.org/collection/works/79250?locale=en)
 
 ![](./images/5E9B8089F1E146D3ACD2D119AFEAD4E1.png)
 
 
-146. Untitled (Violet, Black, Orange, Yellow on White and Red) 无题（白红上的紫罗兰色、黑色、橙色和黄色） 1949 （Mark Rothko, 马克·罗斯科）
+## 146. Untitled (Violet, Black, Orange, Yellow on White and Red) 无题（白红上的紫罗兰色、黑色、橙色和黄色） 1949 （Mark Rothko, 马克·罗斯科）
 
-https://www.guggenheim.org/artwork/3533
+[作品链接](https://www.guggenheim.org/artwork/3533)
 
 ![](./images/4351D06DB36E44F3A09CF137C5D8B402.png)
 
 
-147. Ochre and Red on Red 赭石，红上之红 1949 （Mark Rothko, 马克·罗斯科）
+## 147. Ochre and Red on Red 赭石，红上之红 1949 （Mark Rothko, 马克·罗斯科）
 
-https://www.wikiart.org/en/mark-rothko/ochre-and-red-on-red-1
+[作品链接](https://www.wikiart.org/en/mark-rothko/ochre-and-red-on-red-1)
 
 ![](./images/B0A775B349054B50820BB9095E98B814.png)
 
 
-148. Australia 澳大利亚 1951 （David Smith, 大卫·史密斯）
+## 148. Australia 澳大利亚 1951 （David Smith, 大卫·史密斯）
 
-https://www.moma.org/collection/works/82047?locale=en
+[作品链接](https://www.moma.org/collection/works/82047?locale=en)
 
 ![](./images/4AA937C3EA854F2CB23C276679D8587C.png)
 
 
-149. Early One Morning 一天清晨 1962 （Anthony Caro, 安东尼·卡洛）
+## 149. Early One Morning 一天清晨 1962 （Anthony Caro, 安东尼·卡洛）
 
-http://www.tate.org.uk/art/artworks/caro-early-one-morning-t00805
+[作品链接](http://www.tate.org.uk/art/artworks/caro-early-one-morning-t00805)
 
 ![](./images/4B005A546B7246B28AA285B3CC41D38B.png)
 
@@ -1089,100 +1089,100 @@ http://www.tate.org.uk/art/artworks/caro-early-one-morning-t00805
 # SIXTEEN
 
 
-150. I was a Rich Man’s Plaything 我是一个有钱人的玩物 1947 （Eduardo Paolozzi, 爱德华多·保罗齐）
+## 150. I was a Rich Man’s Plaything 我是一个有钱人的玩物 1947 （Eduardo Paolozzi, 爱德华多·保罗齐）
 
-http://www.tate.org.uk/art/artworks/paolozzi-i-was-a-rich-mans-plaything-t01462
+[作品链接](http://www.tate.org.uk/art/artworks/paolozzi-i-was-a-rich-mans-plaything-t01462)
 
 ![](./images/A490C7B6E41544268D516166E217225F.png)
 
 
-151. Just what is it that makes today's homes so different, so appealing? 是什么让今天的家庭如此不同、如此富有魅力？ 1956 （Richard Hamilton, 理查德·汉密尔顿）
+## 151. Just what is it that makes today's homes so different, so appealing? 是什么让今天的家庭如此不同、如此富有魅力？ 1956 （Richard Hamilton, 理查德·汉密尔顿）
 
-https://en.wikipedia.org/wiki/Just_what_is_it_that_makes_today%27s_homes_so_different,_so_appealing%3F
+[作品链接](https://en.wikipedia.org/wiki/Just_what_is_it_that_makes_today%27s_homes_so_different,_so_appealing%3F)
 
 ![](./images/567B12F07D3A482094028D023E2E9D6E.png)
 
 
-152. Flag 旗 1954-1955（Jasper Johns, 贾斯培·琼斯）
+## 152. Flag 旗 1954-1955（Jasper Johns, 贾斯培·琼斯）
 
-https://www.moma.org/collection/works/78805?locale=en
+[作品链接](https://www.moma.org/collection/works/78805?locale=en)
 
 ![](./images/3BE1E550AE9B490A9EA0DDF5466972E4.png)
 
 
-153. Monogram 字母组合 1955-1959（Robert Rauschenberg, 罗伯特·劳森伯格）
+## 153. Monogram 字母组合 1955-1959（Robert Rauschenberg, 罗伯特·劳森伯格）
 
-https://www.moma.org/audio/playlist/40/648
+[作品链接](https://www.moma.org/audio/playlist/40/648)
 
 ![](./images/6FEAE3CA9A3441EC8ACA597B1496B8BD.png)
 
 
-154.  White Painting 白色绘画 1951 （Robert Rauschenberg, 罗伯特·劳森伯格）
+## 154.  White Painting 白色绘画 1951 （Robert Rauschenberg, 罗伯特·劳森伯格）
 
-https://www.moma.org/audio/playlist/40/639
+[作品链接](https://www.moma.org/audio/playlist/40/639)
 
 ![](./images/90581DABFC364EE1AC73D3C8DF7BD1F3.png)
 
 
-155. Erased de Kooning Drawing 擦除的德·库宁绘画 1953 （Robert Rauschenberg, 罗伯特·劳森伯格）
+## 155. Erased de Kooning Drawing 擦除的德·库宁绘画 1953 （Robert Rauschenberg, 罗伯特·劳森伯格）
 
-https://www.rauschenbergfoundation.org/art/artwork/erased-de-kooning-drawing
+[作品链接](https://www.rauschenbergfoundation.org/art/artwork/erased-de-kooning-drawing)
 
 ![](./images/8F0AB79997274561B6DF27A20ED365EE.png)
 
 
-156.  Coca-Cola[1] 可口可乐[1] 1961（Andy Warhol, 安迪·沃霍尔）
+## 156.  Coca-Cola[1] 可口可乐[1] 1961（Andy Warhol, 安迪·沃霍尔）
 
-https://www.zhihu.com/question/22057640
+[作品链接](https://www.zhihu.com/question/22057640)
 
 ![](./images/B3CD7086FC7143AD864A7EB4A114B0E4.png)
 
 
-157. Water Heater 热水器 1961 （Andy Warhol, 安迪·沃霍尔）
+## 157. Water Heater 热水器 1961 （Andy Warhol, 安迪·沃霍尔）
 
-https://www.moma.org/collection/works/80290?locale=en
+[作品链接](https://www.moma.org/collection/works/80290?locale=en)
 
 ![](./images/803EF64AB0364B0B8D4384ABF3A5DC26.png)
 
 
-158. Campbell's Soup Cans 金宝汤罐头 1962 （Andy Warhol, 安迪·沃霍尔）
+## 158. Campbell's Soup Cans 金宝汤罐头 1962 （Andy Warhol, 安迪·沃霍尔）
 
-https://www.moma.org/collection/works/79809?locale=en
+[作品链接](https://www.moma.org/collection/works/79809?locale=en)
 
 ![](./images/1331CB8DC6EA465590192F4B47BF72F3.png)
 
 
-159. Marilyn Diptych 玛丽莲双联画 1962 （Andy Warhol, 安迪·沃霍尔）
+## 159. Marilyn Diptych 玛丽莲双联画 1962 （Andy Warhol, 安迪·沃霍尔）
 
-https://en.wikipedia.org/wiki/Marilyn_Diptych
+[作品链接](https://en.wikipedia.org/wiki/Marilyn_Diptych)
 
 ![](./images/DE51D4EAD99B4074A27BC17BF1C63C65.png)
 
 
-160. Superman 超人 1961 （Andy Warhol, 安迪·沃霍尔）
+## 160. Superman 超人 1961 （Andy Warhol, 安迪·沃霍尔）
 
-https://theartstack.com/artist/andy-warhol/superman-1961
+[作品链接](https://theartstack.com/artist/andy-warhol/superman-1961)
 
 ![](./images/16FB2C809F8E4B3E8F0EAC8DD15B48A3.png)
 
 
-161. Whaam! 嘭！ 1963 （Roy Lichtenstein, 罗伊·利希滕斯坦）
+## 161. Whaam! 嘭！ 1963 （Roy Lichtenstein, 罗伊·利希滕斯坦）
 
-https://en.wikipedia.org/wiki/Whaam!
+[作品链接](https://en.wikipedia.org/wiki/Whaam!)
 
 ![](./images/C8565A48086C4E06AA113AB7E9BEFBAD.png)
 
 
-162. Brushstroke 笔触 1965（Roy Lichtenstein, 罗伊·利希滕斯坦）
+## 162. Brushstroke 笔触 1965（Roy Lichtenstein, 罗伊·利希滕斯坦）
 
-https://www.moma.org/collection/works/60284?locale=en
+[作品链接](https://www.moma.org/collection/works/60284?locale=en)
 
 ![](./images/C1166F1E8133435F9931BEFD7E102603.png)
 
 
-163. Two Cheeseburgers, with Everything (Dual Hamburgers) 两个一切都有的芝士汉堡（双份汉堡） 1962 （Claes Oldenburg, 克拉斯·欧登伯格）
+## 163. Two Cheeseburgers, with Everything (Dual Hamburgers) 两个一切都有的芝士汉堡（双份汉堡） 1962 （Claes Oldenburg, 克拉斯·欧登伯格）
 
-https://www.moma.org/collection/works/81183?locale=en
+[作品链接](https://www.moma.org/collection/works/81183?locale=en)
 
 ![](./images/FA0A776343D84D36A5839E7DD2E2CE04.png)
 
@@ -1190,111 +1190,111 @@ https://www.moma.org/collection/works/81183?locale=en
 # SEVENTEEN
 
 
-164. The Artist Is Present 艺术家在现场 2010 （Marina Abramović, 玛丽娜·阿布拉莫维奇）
+## 164. The Artist Is Present 艺术家在现场 2010 （Marina Abramović, 玛丽娜·阿布拉莫维奇）
 
-https://www.moma.org/learn/moma_learning/marina-abramovic-marina-abramovic-the-artist-is-present-2010
+[作品链接](https://www.moma.org/learn/moma_learning/marina-abramovic-marina-abramovic-the-artist-is-present-2010)
 
 ![](./images/1533749641824EA4B6AD78CB218C3D21.png)
 
 
-165. 18 Happenings in 6 Parts 6处18次即兴表演 1959 （Allan Kaprow, 艾伦·卡普罗）
+## 165. 18 Happenings in 6 Parts 6处18次即兴表演 1959 （Allan Kaprow, 艾伦·卡普罗）
 
-http://www.medienkunstnetz.de/works/18-happenings-in-6-parts/
+[作品链接](http://www.medienkunstnetz.de/works/18-happenings-in-6-parts/)
 
 
 ![](./images/2967D910930E47ABA00963D00EF7095C.png)
 
 
-166. Spatial Concept: Expectations 空间概念：等待 1960 （Lucio Fontana, 卢齐欧·冯塔纳）
+## 166. Spatial Concept: Expectations 空间概念：等待 1960 （Lucio Fontana, 卢齐欧·冯塔纳）
 
-https://www.moma.org/collection/works/79874?locale=en
+[作品链接](https://www.moma.org/collection/works/79874?locale=en)
 
 ![](./images/4DBF83F6200E4AEA8876194CCB71E23D.png)
 
 
-167. Newspaper Sphere 报纸球  1966（Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
+## 167. Newspaper Sphere 报纸球  1966（Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
 
 ![](./images/5E803DF2DD6644CEB3DEB038A4CB1AD2.png)
 
 
-168. Venus of the Rags 破衫中的维纳斯 1967 （Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
+## 168. Venus of the Rags 破衫中的维纳斯 1967 （Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
 
-http://www.tate.org.uk/art/artworks/pistoletto-venus-of-the-rags-t12200
+[作品链接](http://www.tate.org.uk/art/artworks/pistoletto-venus-of-the-rags-t12200)
 
 ![](./images/A80E6FBB799046F78A585E13ECA27D15.png)
 
 
-169. Untitled (12 Horses) 无题（12匹马）1969（Jannis Kounellis, 简尼斯·库奈利斯）
+## 169. Untitled (12 Horses) 无题（12匹马）1969（Jannis Kounellis, 简尼斯·库奈利斯）
 
 ![](./images/354DE98480B241628F04B8642CD90FDD.png)
 
 
-170. The Pack 一群 1969（Joseph Beuys, 约瑟夫·博伊斯）
+## 170. The Pack 一群 1969（Joseph Beuys, 约瑟夫·博伊斯）
 
-https://www.wikiart.org/en/joseph-beuys/the-pack-1969
+[作品链接](https://www.wikiart.org/en/joseph-beuys/the-pack-1969)
 
 ![](./images/27455D3DB8314C5D99044F5038EBA301.png)
 
 
-171. I Like America and America Likes Me 我爱美国，美国爱我 1974 （Joseph Beuys, 约瑟夫·博伊斯）
+## 171. I Like America and America Likes Me 我爱美国，美国爱我 1974 （Joseph Beuys, 约瑟夫·博伊斯）
 
-https://www.wikiart.org/en/joseph-beuys/i-like-america-and-america-likes-me
+[作品链接](https://www.wikiart.org/en/joseph-beuys/i-like-america-and-america-likes-me)
 
 ![](./images/9C9A39B018B54E35A0764E616DD926EC.png)
 
 
-172. How to Explain Pictures to a Dead Hare 怎样向一只死兔子解释绘画 1965（Joseph Beuys, 约瑟夫·博伊斯）
+## 172. How to Explain Pictures to a Dead Hare 怎样向一只死兔子解释绘画 1965（Joseph Beuys, 约瑟夫·博伊斯）
 
-https://www.wikiart.org/en/joseph-beuys/how-to-explain-pictures-to-a-dead-hare-1965-1
+[作品链接](https://www.wikiart.org/en/joseph-beuys/how-to-explain-pictures-to-a-dead-hare-1965-1)
 
 ![](./images/99205D8940624BB0A836001581D4CB39.png)
 
 
-173. Cut Piece 切片 1964 （Yoko Ono, 小野洋子）https://www.zhihu.com/question/30260734?sort=created
+## 173. Cut Piece 切片 1964 （Yoko Ono, 小野洋子）https://www.zhihu.com/question/30260734?sort=created
 
-https://www.moma.org/learn/moma_learning/yoko-ono-cut-piece-1964
+[作品链接](https://www.moma.org/learn/moma_learning/yoko-ono-cut-piece-1964)
 
 ![](./images/7919A228DED84BBF86C60C8BBAD8726D.png)
 
 
-174. Failure to Levitate in the Studio 未能在工作室漂浮 1966（Bruce Nauman, 布鲁斯·瑙曼） http://www.artda.cn/view.php?tid=2306&cid=29
+## 174. Failure to Levitate in the Studio 未能在工作室漂浮 1966（Bruce Nauman, 布鲁斯·瑙曼） http://www.artda.cn/view.php?tid=2306&cid=29
 
-http://www.stedelijkmuseum.nl/kunstwerk/96022-failing-to-levitate-in-the-studio
+[作品链接](http://www.stedelijkmuseum.nl/kunstwerk/96022-failing-to-levitate-in-the-studio)
 
 ![](./images/A55276FE2FC0473FA8CA7CD1D53D63D6.png)
 
 
-175. Dance or Exercise on the Perimeter of a Square (Square Dance) 在广场周边跳舞或锻炼（广场舞） 1967（Bruce Nauman, 布鲁斯·瑙曼）
+## 175. Dance or Exercise on the Perimeter of a Square (Square Dance) 在广场周边跳舞或锻炼（广场舞） 1967（Bruce Nauman, 布鲁斯·瑙曼）
 
-https://www.moma.org/collection/works/119087
+[作品链接](https://www.moma.org/collection/works/119087)
 
 ![](./images/86DA3C0A71B1461EA6BE602799B743DB.png)
 
 
-176. The Collectors 收藏家 1990-1992 （Francis Alÿs, 弗朗西斯·阿里斯）
+## 176. The Collectors 收藏家 1990-1992 （Francis Alÿs, 弗朗西斯·阿里斯）
 
-http://www.tate.org.uk/whats-on/tate-modern/exhibition/francis-alys/francis-alys-story-deception-room-guide/francis-alys-0
+[作品链接](http://www.tate.org.uk/whats-on/tate-modern/exhibition/francis-alys/francis-alys-story-deception-room-guide/francis-alys-0)
 
 ![](./images/0DD5329FA291471182EB87D88C242453.png)
 
 
-177. Re-enactments 重演 2001（Francis Alÿs, 弗朗西斯·阿里斯）
+## 177. Re-enactments 重演 2001（Francis Alÿs, 弗朗西斯·阿里斯）
 
-https://www.moma.org/collection/works/130829
+[作品链接](https://www.moma.org/collection/works/130829)
 
 ![](./images/28391558022A4CC68AC7B790881458B0.png)
 
 
-178. A Line Made by Walking 走出来的线 1967（Richard Long, 理查德·朗）
+## 178. A Line Made by Walking 走出来的线 1967（Richard Long, 理查德·朗）
 
-http://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-ar00142
+[作品链接](http://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-ar00142)
 
 ![](./images/C868427DADF141B399D3274295C451DC.png)
 
 
-179. Spiral Jetty 螺旋形的防波堤 1970（Robert Smithon, 罗伯特•史密森）
+## 179. Spiral Jetty 螺旋形的防波堤 1970（Robert Smithon, 罗伯特•史密森）
 
-https://en.wikipedia.org/wiki/Spiral_Jetty
+[作品链接](https://en.wikipedia.org/wiki/Spiral_Jetty)
 
 ![](./images/AC42E8EACE1844E0BAC95A7DE47A879A.png)
 
@@ -1302,51 +1302,51 @@ https://en.wikipedia.org/wiki/Spiral_Jetty
 # EIGHTEEN
 
 
-180. Untitled 无题 1972（Donald Judd, 唐纳德·贾德）
+## 180. Untitled 无题 1972（Donald Judd, 唐纳德·贾德）
 
-http://www.tate.org.uk/art/artworks/judd-untitled-t06524
+[作品链接](http://www.tate.org.uk/art/artworks/judd-untitled-t06524)
 
 ![](./images/2492582730334DC38BE4A2CB781717B3.png)
 
 
-181. Untitled (Stack)  无题（堆叠）1967（Donald Judd, 唐纳德·贾德）
+## 181. Untitled (Stack)  无题（堆叠）1967（Donald Judd, 唐纳德·贾德）
 
-https://www.moma.org/collection/works/81324?locale=en
+[作品链接](https://www.moma.org/collection/works/81324?locale=en)
 
 ![](./images/BAEB2CEAFEF64D31AF22D7D26D0B2629.png)
 
 
-182. The Marriage of Reason and Squalor, II 理性与卑劣的联姻 2 1959（Frank Stella, 弗兰克·斯特拉）
+## 182. The Marriage of Reason and Squalor, II 理性与卑劣的联姻 2 1959（Frank Stella, 弗兰克·斯特拉）
 
-https://www.moma.org/collection/works/80316
+[作品链接](https://www.moma.org/collection/works/80316)
 
 ![](./images/B7180E6406E24F23B0A8335D151493BA.png)
 
 
-183. Hyena Stomp 鬣狗爵士舞 1962（Frank Stella, 弗兰克·斯特拉）
+## 183. Hyena Stomp 鬣狗爵士舞 1962（Frank Stella, 弗兰克·斯特拉）
 
-http://www.tate.org.uk/art/artworks/stella-hyena-stomp-t00730
+[作品链接](http://www.tate.org.uk/art/artworks/stella-hyena-stomp-t00730)
 
 ![](./images/DA37AE29CAE0401F842FD89DB8E36539.png)
 
 
-184. 144 Magnesium Square 144块镁方砖 1969 （Carl Andre, 卡尔·安德烈）
+## 184. 144 Magnesium Square 144块镁方砖 1969 （Carl Andre, 卡尔·安德烈）
 
-http://www.tate.org.uk/art/artworks/andre-144-magnesium-square-t01767
+[作品链接](http://www.tate.org.uk/art/artworks/andre-144-magnesium-square-t01767)
 
 ![](./images/553D626346AB4C088D3C09F56EA76E8B.png)
 
 
-185. "monument" 1 for V. Tatlin 献给 V·塔特林之纪念碑 1 1964（Dan Flavin, 丹·弗莱文）
+## 185. "monument" 1 for V. Tatlin 献给 V·塔特林之纪念碑 1 1964（Dan Flavin, 丹·弗莱文）
 
-https://www.moma.org/collection/works/81337?locale=en
+[作品链接](https://www.moma.org/collection/works/81337?locale=en)
 
 ![](./images/A7FDD780F23C4EDB9CD89EC907E3C594.png)
 
 
-186. Serial Project, I (ABCD) 序列工程 1 （ABCD） 1966 （Sol LeWitt, 索尔·勒维特）
+## 186. Serial Project, I (ABCD) 序列工程 1 （ABCD） 1966 （Sol LeWitt, 索尔·勒维特）
 
-https://www.moma.org/collection/works/81533?locale=en
+[作品链接](https://www.moma.org/collection/works/81533?locale=en)
 
 ![](./images/40070AAE739D422F83C38543FA1B3867.png)
 
@@ -1354,86 +1354,86 @@ https://www.moma.org/collection/works/81533?locale=en
 # NINETEEN
 
 
-187. Untitled Film Still #21 无题电影剧照 #21 1978（Cindy Sherman, 辛迪·舍曼）
+## 187. Untitled Film Still #21 无题电影剧照 #21 1978（Cindy Sherman, 辛迪·舍曼）
 
-https://www.moma.org/collection/works/56618?locale=en
+[作品链接](https://www.moma.org/collection/works/56618?locale=en)
 
 ![](./images/50C1C3B65AEE4A6ABF889754E6914475.png)
 
 
-188. The Destroyed Room 损毁的房间 1978（Jeff Wall, 杰夫·沃尔）
+## 188. The Destroyed Room 损毁的房间 1978（Jeff Wall, 杰夫·沃尔）
 
-http://www.tate.org.uk/whats-on/tate-modern/exhibition/jeff-wall/jeff-wall-room-guide/jeff-wall-room-guide-room-1
+[作品链接](http://www.tate.org.uk/whats-on/tate-modern/exhibition/jeff-wall/jeff-wall-room-guide/jeff-wall-room-guide-room-1)
 
 ![](./images/7820562872EC46EB989B1F3044B21047.png)
 
 
-189. The Death of Sardanapalus  萨丹纳帕鲁斯之死 1827（Eugène Delacroix, 欧仁·德拉克罗瓦）
+## 189. The Death of Sardanapalus  萨丹纳帕鲁斯之死 1827（Eugène Delacroix, 欧仁·德拉克罗瓦）
 
-https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus
+[作品链接](https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus)
 
 ![](./images/ED634EB4D4C74FFE8DF45ED55E9D28A3.png)
 
 
-190. Mimic 模拟 1982（Jeff Wall, 杰夫·沃尔）
+## 190. Mimic 模拟 1982（Jeff Wall, 杰夫·沃尔）
 
-http://www.tate.org.uk/whats-on/tate-modern/exhibition/jeff-wall/jeff-wall-room-guide/jeff-wall-room-guide-room-3
+[作品链接](http://www.tate.org.uk/whats-on/tate-modern/exhibition/jeff-wall/jeff-wall-room-guide/jeff-wall-room-guide-room-3)
 
 ![](./images/E11B07D132404858A2E9516E06394340.png)
 
 
-191. Paris Street; Rainy Day 巴黎街道：雨天 1877（Gustave Caillebotte, 古斯塔夫·卡耶博特）
+## 191. Paris Street; Rainy Day 巴黎街道：雨天 1877（Gustave Caillebotte, 古斯塔夫·卡耶博特）
 
-https://en.wikipedia.org/wiki/Paris_Street;_Rainy_Day
+[作品链接](https://en.wikipedia.org/wiki/Paris_Street;_Rainy_Day)
 
 ![](./images/01398D0665274930B4529633AB276F02.png)
 
 
-192. Untitled (I shop therefore I am) 无题（我买故我在） 1987（Barbara Kruger, 芭芭拉·克鲁格）
+## 192. Untitled (I shop therefore I am) 无题（我买故我在） 1987（Barbara Kruger, 芭芭拉·克鲁格）
 
-https://www.wikiart.org/en/barbara-kruger/untitled-i-shop-therefore-i-am-1987
+[作品链接](https://www.wikiart.org/en/barbara-kruger/untitled-i-shop-therefore-i-am-1987)
 
 ![](./images/964E44A3BB054E54934D084821B86D91.png)
 
 
-193. Untitled (Your body is a battleground)  无题（你的身体是战场）1989（Barbara Kruger, 芭芭拉·克鲁格）
+## 193. Untitled (Your body is a battleground)  无题（你的身体是战场）1989（Barbara Kruger, 芭芭拉·克鲁格）
 
-https://www.artsy.net/artwork/barbara-kruger-untitled-your-body-is-a-battleground-1
+[作品链接](https://www.artsy.net/artwork/barbara-kruger-untitled-your-body-is-a-battleground-1)
 
 ![](./images/71A1F4C5F5A94C21A9467E06512695CF.png)
 
 
-194. Untitled (You Invest in the Divinity of the Masterpiece) 无题（你投资杰作之神圣性）1982（Barbara Kruger, 芭芭拉·克鲁格）
+## 194. Untitled (You Invest in the Divinity of the Masterpiece) 无题（你投资杰作之神圣性）1982（Barbara Kruger, 芭芭拉·克鲁格）
 
-https://www.moma.org/collection/works/79334
+[作品链接](https://www.moma.org/collection/works/79334)
 
 ![](./images/4D8E185753A64ACE9CA6C083AED0FE94.png)
 
 
-195. How to Work Better 怎么更好工作 1991（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）
+## 195. How to Work Better 怎么更好工作 1991（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）
 
-https://www.moma.org/collection/works/222300?locale=en&recent_acquisitions=1
+[作品链接](https://www.moma.org/collection/works/222300?locale=en&recent_acquisitions=1)
 
 ![](./images/E7970A2F9B6C4D73A8BE62C7ADB2E983.png)
 
 
-196. Tips for Artists Who Want to Sell 给想卖作品的艺术家的建议 1966-1968 （John Baldessari, 约翰·巴尔代萨里）
+## 196. Tips for Artists Who Want to Sell 给想卖作品的艺术家的建议 1966-1968 （John Baldessari, 约翰·巴尔代萨里）
 
-https://www.thebroad.org/art/john-baldessari/tips-artists-who-want-sell
+[作品链接](https://www.thebroad.org/art/john-baldessari/tips-artists-who-want-sell)
 
 ![](./images/05B19F2132A94EE78A79B85BCFBE0F46.png)
 
 
-197. Heel 脚后跟 1986 （John Baldessari, 约翰·巴尔代萨里）
+## 197. Heel 脚后跟 1986 （John Baldessari, 约翰·巴尔代萨里）
 
-https://theartstack.com/artist/john-baldessari/heel
+[作品链接](https://theartstack.com/artist/john-baldessari/heel)
 
 ![](./images/9EC82C502D05400DB363B7A3E63005B8.png)
 
 
-198. The Way Things Go 天衣无缝的连锁反应  1987（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）  *art film*
+## 198. The Way Things Go 天衣无缝的连锁反应  1987（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）  *art film*
 
-https://en.wikipedia.org/wiki/The_Way_Things_Go 
+[作品链接](https://en.wikipedia.org/wiki/The_Way_Things_Go )
 
 ![](./images/DC20C0C2DF9E47F1ACCF083F309D90AA.png)
 
@@ -1441,133 +1441,133 @@ https://en.wikipedia.org/wiki/The_Way_Things_Go
 # TWENTY
 
 
-199. Made in Heaven 天堂制造 1989（Jeff Koons，杰夫·昆斯）
+## 199. Made in Heaven 天堂制造 1989（Jeff Koons，杰夫·昆斯）
 
-http://www.jeffkoons.com/artwork/made-in-heaven
+[作品链接](http://www.jeffkoons.com/artwork/made-in-heaven)
 
 ![](./images/2D6B76A3051C47D98DD87282064DBEF5.png)
 
 
-200. Spot Painting 现场画 1986（Damien Hirst, 达米恩·赫斯特）
+## 200. Spot Painting 现场画 1986（Damien Hirst, 达米恩·赫斯特）
 
-http://www.damienhirst.com/spot-painting
+[作品链接](http://www.damienhirst.com/spot-painting)
 
 ![](./images/941FC36F639542359DE2C84825BC02F8.png)
 
 
-201. A Thousand Years 一千年 1990 （Damien Hirst, 达米恩·赫斯特）
+## 201. A Thousand Years 一千年 1990 （Damien Hirst, 达米恩·赫斯特）
 
-http://www.damienhirst.com/a-thousand-years
+[作品链接](http://www.damienhirst.com/a-thousand-years)
 
 ![](./images/B1A065338A6B498C94FE151AC0B8AC53.png)
 
 
-202. The Physical Impossibility of Death in the Mind of Someone Living 生者对于死亡的无动于衷 1991（Damien Hirst, 达米恩·赫斯特）
+## 202. The Physical Impossibility of Death in the Mind of Someone Living 生者对于死亡的无动于衷 1991（Damien Hirst, 达米恩·赫斯特）
 
-http://www.damienhirst.com/the-physical-impossibility-of
+[作品链接](http://www.damienhirst.com/the-physical-impossibility-of)
 
 ![](./images/75655B30C05F410697013E1BE61BF492.png)
 
 
-203. Self 自己 1991（Marc Quinn, 马克·奎恩）
+## 203. Self 自己 1991（Marc Quinn, 马克·奎恩）
 
-http://marcquinn.com/artworks/single/self-1991
+[作品链接](http://marcquinn.com/artworks/single/self-1991)
 
 ![](./images/7A129C7F802441A59061E2B9264DBA78.png)
 
 
-204. Myra 迈尔 1995 （Marcus Harvey, 马克斯·哈维）
+## 204. Myra 迈尔 1995 （Marcus Harvey, 马克斯·哈维）
 
-https://en.wikipedia.org/wiki/Myra_(painting)
+[作品链接](https://en.wikipedia.org/wiki/Myra_(painting))
 
 ![](./images/338739803AB74D48BCF5E2927A2BF240.png)
 
 
-205. For the Love of God 献给上帝的爱 2007（Damien Hirst, 达米恩·赫斯特）
+## 205. For the Love of God 献给上帝的爱 2007（Damien Hirst, 达米恩·赫斯特）
 
-http://www.damienhirst.com/for-the-love-of-god
+[作品链接](http://www.damienhirst.com/for-the-love-of-god)
 
 ![](./images/9FD97E0F90E446DE87D175FCD0D0A41E.png)
 
 
-206. Two Fried Eggs and a Kebab 两个煎鸡蛋和一根烤肉串 1992（Sarah Lucas, 莎拉·卢卡斯）
+## 206. Two Fried Eggs and a Kebab 两个煎鸡蛋和一根烤肉串 1992（Sarah Lucas, 莎拉·卢卡斯）
 
-http://www.saatchigallery.com/artists/artpages/sarah_lucas_2.htm
+[作品链接](http://www.saatchigallery.com/artists/artpages/sarah_lucas_2.htm)
 
 ![](./images/003E65775B5843E1A6E5E0B709BFB07F.png)
 
 
-207. Au Naturel 裸体 1994（Sarah Lucas, 莎拉·卢卡斯）
+## 207. Au Naturel 裸体 1994（Sarah Lucas, 莎拉·卢卡斯）
 
-http://www.saatchigallery.com/artists/artpages/sarah_lucas_1.htm
+[作品链接](http://www.saatchigallery.com/artists/artpages/sarah_lucas_1.htm)
 
 ![](./images/82660A913DD04DFFA37C1E7DA5748F61.png)
 
 
-208. Everyone I Have Ever Slept With 1963–1995 1963至1995年曾经和我睡在一起的每一个人 1995 （Tracey Emin, 翠西·艾敏）
+## 208. Everyone I Have Ever Slept With 1963–1995 1963至1995年曾经和我睡在一起的每一个人 1995 （Tracey Emin, 翠西·艾敏）
 
-https://en.wikipedia.org/wiki/Everyone_I_Have_Ever_Slept_With_1963%E2%80%931995
+[作品链接](https://en.wikipedia.org/wiki/Everyone_I_Have_Ever_Slept_With_1963%E2%80%931995)
 
 ![](./images/CB9BD52C3FC44A10B351ADC15F84680A.png)
 
 
-209. My Bed 我的床 1998 （Tracey Emin, 翠西·艾敏）
+## 209. My Bed 我的床 1998 （Tracey Emin, 翠西·艾敏）
 
-https://en.wikipedia.org/wiki/My_Bed
+[作品链接](https://en.wikipedia.org/wiki/My_Bed)
 
 ![](./images/0CD0B5E1EA1D4B58985FE3DB17F0A228.png)
 
 
-210. Hotel International 国际酒店 1993（Tracey Emin, 翠西·艾敏）
+## 210. Hotel International 国际酒店 1993（Tracey Emin, 翠西·艾敏）
 
-https://www.artsy.net/artwork/tracey-emin-hotel-international
+[作品链接](https://www.artsy.net/artwork/tracey-emin-hotel-international)
 
 ![](./images/7167178F62A1409B987714AD66B57D9C.png)
 
 
-211. Tea Painting in an Illusionistic Style 透视风格的茶画 1961（David Hockney, 大卫·霍克尼）
+## 211. Tea Painting in an Illusionistic Style 透视风格的茶画 1961（David Hockney, 大卫·霍克尼）
 
-http://www.tate.org.uk/art/artworks/hockney-tea-painting-in-an-illusionistic-style-t07075
+[作品链接](http://www.tate.org.uk/art/artworks/hockney-tea-painting-in-an-illusionistic-style-t07075)
 
 ![](./images/C0424E0D15C64CAE88949DB37CE20FD1.png)
 
 
-212. Victory Boogie Woogie 胜利之舞 1942-1943（Piet Mondrian, 皮埃特·蒙特里安）
+## 212. Victory Boogie Woogie 胜利之舞 1942-1943（Piet Mondrian, 皮埃特·蒙特里安）
 
-https://en.wikipedia.org/wiki/Victory_Boogie_Woogie
+[作品链接](https://en.wikipedia.org/wiki/Victory_Boogie_Woogie)
 
 ![](./images/0B0CB86551EC4AC79C1EE58843400410.png)
 
 
-213. Woman III 妇女 3 1953（Willem de Kooning, 威廉·德·库宁）
+## 213. Woman III 妇女 3 1953（Willem de Kooning, 威廉·德·库宁）
 
-https://en.wikipedia.org/wiki/Woman_III
+[作品链接](https://en.wikipedia.org/wiki/Woman_III)
 
 ![](./images/3CDD0976925344069F01A584CA1598F4.png)
 
 
-214. Miss ko²  ko小姐 1997（Takashi Murakami, 村上隆）
+## 214. Miss ko²  ko小姐 1997（Takashi Murakami, 村上隆）
 
-https://www.wikiart.org/en/takashi-murakami/miss-ko-1997
+[作品链接](https://www.wikiart.org/en/takashi-murakami/miss-ko-1997)
 
 ![](./images/D5E365DEEBA444659DC7775925DF3143.png)
 
 
-215. Hiropon 1997 （Takashi Murakami, 村上隆）
+## 215. Hiropon 1997 （Takashi Murakami, 村上隆）
 
-http://www.artnet.com/artists/takashi-murakami/hiropon-dMN_9UQNrw4mGMprXpeWBg2
+[作品链接](http://www.artnet.com/artists/takashi-murakami/hiropon-dMN_9UQNrw4mGMprXpeWBg2)
 
 ![](./images/2D1381E4312E430BAEA0FC0C44263F59.png)
 
-216. My Lonesome Cowboy 我的寂寞牛仔 1998 （Takashi Murakami, 村上隆）
+## 216. My Lonesome Cowboy 我的寂寞牛仔 1998 （Takashi Murakami, 村上隆）
 
-https://www.wikiart.org/en/takashi-murakami/my-lonesome-cowboy-1998
+[作品链接](https://www.wikiart.org/en/takashi-murakami/my-lonesome-cowboy-1998)
 
 ![](./images/0BD9DE5C983C4B40AD7101450607F97D.png)
 
 
-217. 摔破一个汉代陶罐 Dropping a Han Dynasty Urn 1995（艾未未, Ai Weiwei）
+## 217. 摔破一个汉代陶罐 Dropping a Han Dynasty Urn 1995（艾未未, Ai Weiwei）
 
-https://www.artsy.net/artwork/ai-weiwei-dropping-a-han-dynasty-urn-1
+[作品链接](https://www.artsy.net/artwork/ai-weiwei-dropping-a-han-dynasty-urn-1)
 
 ![](./images/4DFF730A349E4A84BC67A915841169DD.png)
