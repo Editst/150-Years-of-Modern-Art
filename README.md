@@ -1250,14 +1250,18 @@
 ![](./images/99205D8940624BB0A836001581D4CB39.png)
 
 
-## 173. Cut Piece 切片 1964 （Yoko Ono, 小野洋子）https://www.zhihu.com/question/30260734?sort=created
+## 173. Cut Piece 切片 1964 （Yoko Ono, 小野洋子）
+
+[知乎链接](https://www.zhihu.com/question/30260734?sort=created)
 
 [作品链接](https://www.moma.org/learn/moma_learning/yoko-ono-cut-piece-1964)
 
 ![](./images/7919A228DED84BBF86C60C8BBAD8726D.png)
 
 
-## 174. Failure to Levitate in the Studio 未能在工作室漂浮 1966（Bruce Nauman, 布鲁斯·瑙曼） http://www.artda.cn/view.php?tid=2306&cid=29
+## 174. Failure to Levitate in the Studio 未能在工作室漂浮 1966（Bruce Nauman, 布鲁斯·瑙曼）
+
+[作品链接](http://www.artda.cn/view.php?tid=2306&cid=29)
 
 [作品链接](http://www.stedelijkmuseum.nl/kunstwerk/96022-failing-to-levitate-in-the-studio)
 
