@@ -4,7 +4,7 @@
 
 # ZERO
 
-## 1. Equivalent VIII  等价物 8 1966 （Carl Andre 卡尔·安德烈）
+## 1. Equivalent VIII  等价物 8 1966 （Carl Andre, 卡尔·安德烈）
 
 [作品链接](http://www.tate.org.uk/art/artworks/andre-equivalent-viii-t01534)
 
@@ -29,61 +29,48 @@
 
 # TWO
 
-## 4. 睡莲  Reflections of Clouds on the Water-Lily Pond，1920 （Claude Monet  克劳德·莫奈）
+## 4. 睡莲  Reflections of Clouds on the Water-Lily Pond，1920 （Claude Monet, 克劳德·莫奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series))
 
-![](./images/6B417857902C418BA5B99FDFAB1C2099.png)
+![](./images/Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg)
 
 
-## 5. The Dance Class (La Classe de Danse) 舞蹈课 1874（Edgar Degas 埃德加·德加）
-
-[作品链接](https://en.wikipedia.org/wiki/The_Ballet_Class_(Degas,_Mus%C3%A9e_d%27Orsay))
-
-![](./images/BED3663AF03D4BF4BE68A955DA6CEAEE.png)
-
-
-## 6. Hoar Frost, the Old Road to Ennery 白霜，通往埃纳里的老路  1873（Camille Pissarro , 米耶·毕沙罗）
-
-[作品链接](https://artbookannex.com/tag/ennery/)
-
-![](./images/0601F33D633E487B95A38C88A7A5894A.png)
-
-
-## 7. The Raft of the Medusa 美杜莎之筏 1818-1819（Théodore Géricault, 泰奥多尔·席里柯）
+## 5. The Raft of the Medusa 美杜莎之筏 1818-1819（Théodore Géricault, 泰奥多尔·席里柯）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa)
 
 ![](./images/935D4FE186E34100AB2D755453B84F7F.png)
 
 
-## 8. Liberty Leading the People 自由引导人民 1830 （Eugène Delacroix, 欧仁·德拉克罗瓦）
+## 6. Liberty Leading the People 自由引导人民 1830 （Eugène Delacroix, 欧仁·德拉克罗瓦）
 
 [作品链接](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)
 
 ![](./images/Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)
 
 
-## 9. L'Origine du monde ("The Origin of the World") 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
+## 7. L'Origine du monde ("The Origin of the World") 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
 
 [作品链接](https://en.wikipedia.org/wiki/L%27Origine_du_monde)
 
 ![](./images/0669D4B5AD424ACBB98540A23F22B2D3.png)
 
 
-## 10. The Absinthe Drinker (French: Le Buveur d'absinthe)  喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）https://en.wikipedia.org/wiki/The_Absinthe_Drinker_(Manet_painting)
+## 8. The Absinthe Drinker (French: Le Buveur d'absinthe)  喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）
+[作品链接](https://en.wikipedia.org/wiki/The_Absinthe_Drinker_(Manet_painting))
 
 ![](./images/B9CD46A0D862461E9876026C00AD85FD.png)
 
 
-## 11. Le Déjeuner sur l'herbe (English: The Luncheon on the Grass)  草地上的午餐 1863 （Édouard Manet, 爱德华·马奈）
+## 9. Le Déjeuner sur l'herbe (English: The Luncheon on the Grass)  草地上的午餐 1863 （Édouard Manet, 爱德华·马奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe)
 
 ![](./images/B7F319EBE2654717B80B96512E18D9A0.png)
 
 
-## 12. Olympia 奥林匹亚 1863 （Édouard Manet, 爱德华·马奈）
+## 10. Olympia 奥林匹亚 1863 （Édouard Manet, 爱德华·马奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Olympia_(Manet))
 
@@ -92,67 +79,81 @@
 
 # THREE
 
-## 13. Impression, Sunrise (French: Impression, soleil levant) 1872（Claude Monet  克劳德·莫奈）
+## 11. Impression, Sunrise (French: Impression, soleil levant) 1872（Claude Monet  克劳德·莫奈）
 
- https://en.wikipedia.org/wiki/Impression,_Sunrise
+[作品链接](https://en.wikipedia.org/wiki/Impression,_Sunrise)
 
 ![](./images/B597DD2C28214100BC74605424B53304.png)
 
 
-## 14. A Modern Olympia 现代奥林匹亚 1870（Paul Cézanne, 保罗·塞尚）
+## 12. A Modern Olympia 现代奥林匹亚 1870（Paul Cézanne, 保罗·塞尚）
 
 [作品链接](http://www.paulcezanne.org/a-modern-olympia.jsp#prettyPhoto)
 
 ![](./images/4C98ECABAA554D419E9EBB792ACBDF18.png)
 
 
-## 15. Bain à la Grenouillère 青蛙塘 1869 （Claude Monet  克劳德·莫奈）
+## 13. Hoar Frost, the Old Road to Ennery 白霜，通往埃纳里的老路  1873（Camille Pissarro, 卡米耶·毕沙罗）
+
+[作品链接](https://artbookannex.com/tag/ennery/)
+
+![](./images/0601F33D633E487B95A38C88A7A5894A.png)
+
+
+## 14. Bain à la Grenouillère 青蛙塘 1869 （Claude Monet, 克劳德·莫奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Bain_%C3%A0_la_Grenouill%C3%A8re)
 
 ![](./images/14FAF363D5CA472BB2EE294D2C1720D2.png)
 
 
-## 16. La Grenouillère 青蛙塘 1869 （Pierre-Auguste Renoir, 皮埃尔-奥古斯特·雷诺阿）
+## 15. La Grenouillère 青蛙塘 1869 （Pierre-Auguste Renoir, 皮埃尔-奥古斯特·雷诺阿）
 
 [作品链接](https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir)
 
-![](./images/DE67DF9B8547477DB1E58C2A3C383E2C.png)
+![](./images/Auguste_Renoir_-_La_Grenouillère_-_Google_Art_Project.jpg)
 
 
-## 17. Rain, Steam and Speed – The Great Western Railway  雨、蒸汽和速度 1844 （ J. M. W. Turner, J.M.W 特纳）
+## 16. Rain, Steam and Speed – The Great Western Railway  雨、蒸汽和速度 1844 （ J. M. W. Turner, J.M.W 特纳）
 
 [作品链接](https://en.wikipedia.org/wiki/Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway)
 
 ![](./images/9DD0244891C443DB802094A09796F0D3.png)
 
 
-## 18. The Thames below Westminster 威斯敏斯特下的泰晤士河 1871 （Claude Monet  克劳德·莫奈）
+## 17. The Thames below Westminster 威斯敏斯特下的泰晤士河 1871 （Claude Monet, 克劳德·莫奈）
 
 [作品链接](https://artuk.org/discover/artworks/the-thames-below-westminster-115865)
 
 ![](./images/124584CFEA9443CC8E60239DF4EC1A87.png)
 
 
-## 19. 神奈川沖浪裏  The Great Wave off Kanagawa 神奈川巨浪  1829-1833 （葛飾北斎，Katsushika Hokusai, 葛饰北斋）
+## 18. 神奈川沖浪裏  The Great Wave off Kanagawa 神奈川巨浪  1829-1833 （葛飾北斎，Katsushika Hokusai, 葛饰北斋）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
 
 ![](./images/413FE42E75C440FCA3C5DC0B3A71EA9A.png)
 
 
-## 20. 大津駅 Station of Otsu 大津站 1840（安藤 広重, Ando Hiroshige, 安藤广重（后改名 歌川 広重,  Utagawa Hiroshige,  歌川广重））
+## 19. 大津駅 Station of Otsu 大津站 1840（安藤 広重, Ando Hiroshige, 安藤广重（后改名 歌川 広重, Utagawa Hiroshige, 歌川广重））
 
 [作品链接](https://www.metmuseum.org/toah/works-of-art/JP804/)
 
 ![](./images/E00215996F6246FB98800821A8993E8A.png)
 
 
-## 21. A Carriage at The Races 赛马场上的马车 1870 （Edgar Degas 埃德加·德加）
+## 20. The Dance Class (La Classe de Danse) 舞蹈课 1874（Edgar Degas, 埃德加·德加）
+
+[作品链接](https://en.wikipedia.org/wiki/The_Ballet_Class_(Degas,_Mus%C3%A9e_d%27Orsay))
+
+![](./images/BED3663AF03D4BF4BE68A955DA6CEAEE.png)
+
+
+## 21. A Carriage at The Races 赛马场上的马车 1870 （Edgar Degas, 埃德加·德加）
 
 [作品链接](https://www.wikiart.org/en/edgar-degas/a-carriage-at-the-races-1872)
 
-![](./images/7B44B830CCF64B32BACCA0DCAB355860.png)
+![](./images/edgar-degas-at-the-races-in-the-countryside-google-art-project.jpg)
 
 
 # FOUR
