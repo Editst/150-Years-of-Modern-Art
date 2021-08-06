@@ -61,7 +61,7 @@
 
 [作品链接](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)
 
-![](./images/0AC7A2444F1049E0AA5232793579E866.png)
+![](./images/Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)
 
 
 ## 9. L'Origine du monde ("The Origin of the World") 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
