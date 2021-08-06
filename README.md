@@ -11,7 +11,7 @@
 ![](./images/1B1EDB90AEE34DA29470B3265CFA5C73.png)
 
 
-## 2. Puppy 小狗 1992 （Jeff Koons，杰夫·昆斯）
+## 2. Puppy 小狗 1992 （Jeff Koons, 杰夫·昆斯）
 
 [作品链接](https://www.guggenheim.org/artwork/48)
 
@@ -20,7 +20,7 @@
 
 # ONE
 
-## 3. Fountain 泉  1917 （Marcel Duchamp, 马塞尔·杜尚）
+## 3. Fountain 泉 1917（Marcel Duchamp, 马塞尔·杜尚）
 
 [作品链接](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
 
@@ -29,7 +29,7 @@
 
 # TWO
 
-## 4. 睡莲  Reflections of Clouds on the Water-Lily Pond，1920 （Claude Monet, 克劳德·莫奈）
+## 4. Reflections of Clouds on the Water-Lily Pond 睡莲 1920 （Claude Monet, 克劳德·莫奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series))
 
@@ -50,27 +50,27 @@
 ![](./images/Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)
 
 
-## 7. L'Origine du monde ("The Origin of the World") 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
+## 7. L'Origine du monde (The Origin of the World) 世界的起源 1866 （Gustave Courbet, 古斯塔夫·库尔贝 ）
 
 [作品链接](https://en.wikipedia.org/wiki/L%27Origine_du_monde)
 
 ![](./images/0669D4B5AD424ACBB98540A23F22B2D3.png)
 
 
-## 8. The Absinthe Drinker (French: Le Buveur d'absinthe)  喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）
+## 8. The Absinthe Drinker (Le Buveur d'absinthe) 喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）
 [作品链接](https://en.wikipedia.org/wiki/The_Absinthe_Drinker_(Manet_painting))
 
 ![](./images/B9CD46A0D862461E9876026C00AD85FD.png)
 
 
-## 9. Le Déjeuner sur l'herbe (English: The Luncheon on the Grass)  草地上的午餐 1863 （Édouard Manet, 爱德华·马奈）
+## 9. Le Déjeuner sur l'herbe (The Luncheon on the Grass) 草地上的午餐 1863 （Édouard Manet, 爱德华·马奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe)
 
 ![](./images/B7F319EBE2654717B80B96512E18D9A0.png)
 
 
-## 10. Olympia 奥林匹亚 1863 （Édouard Manet, 爱德华·马奈）
+## 10. Olympia 奥林匹亚 1863（Édouard Manet, 爱德华·马奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Olympia_(Manet))
 
@@ -79,7 +79,7 @@
 
 # THREE
 
-## 11. Impression, Sunrise (French: Impression, soleil levant) 1872（Claude Monet  克劳德·莫奈）
+## 11. Impression, Sunrise (Impression, soleil levant) 印象，日出 1872（Claude Monet  克劳德·莫奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Impression,_Sunrise)
 
@@ -114,21 +114,21 @@
 ![](./images/Auguste_Renoir_-_La_Grenouillère_-_Google_Art_Project.jpg)
 
 
-## 16. Rain, Steam and Speed – The Great Western Railway  雨、蒸汽和速度 1844 （ J. M. W. Turner, J.M.W 特纳）
+## 16. Rain, Steam and Speed – The Great Western Railway 雨、蒸汽和速度 1844 (J. M. W. Turner, J.M.W 特纳)
 
 [作品链接](https://en.wikipedia.org/wiki/Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway)
 
 ![](./images/9DD0244891C443DB802094A09796F0D3.png)
 
 
-## 17. The Thames below Westminster 威斯敏斯特下的泰晤士河 1871 （Claude Monet, 克劳德·莫奈）
+## 17. The Thames below Westminster 威斯敏斯特下的泰晤士河 1871 (Claude Monet, 克劳德·莫奈)
 
 [作品链接](https://artuk.org/discover/artworks/the-thames-below-westminster-115865)
 
 ![](./images/124584CFEA9443CC8E60239DF4EC1A87.png)
 
 
-## 18. 神奈川沖浪裏  The Great Wave off Kanagawa 神奈川巨浪  1829-1833 （葛飾北斎，Katsushika Hokusai, 葛饰北斋）
+## 18. 神奈川沖浪裏  The Great Wave off Kanagawa 神奈川巨浪 1829-1833 (葛飾北斎，Katsushika Hokusai, 葛饰北斋)
 
 [作品链接](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
 
