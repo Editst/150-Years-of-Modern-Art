@@ -2,9 +2,9 @@
 
 来自[豆瓣网友](https://book.douban.com/review/8930999/)，原文在有道云笔记，为方便浏览转载至此。
 
-# ZERO
+# 导论：你在看什么
 
-## 1. Equivalent VIII  等价物 8 1966 （Carl Andre, 卡尔·安德烈）
+## 1. Equivalent VIII 等价物 8 1966 （Carl Andre, 卡尔·安德烈）
 
 [作品链接](http://www.tate.org.uk/art/artworks/andre-equivalent-viii-t01534)
 
@@ -18,7 +18,7 @@
 ![](./images/C887C52D7ABB46C3B1103A7CB597F761.png)
 
 
-# ONE
+# 1 泉，1917
 
 ## 3. Fountain 泉 1917（Marcel Duchamp, 马塞尔·杜尚）
 
@@ -27,7 +27,7 @@
 ![](./images/424E89FF9AF34168941BA09A62B1F3A3.png)
 
 
-# TWO
+# 2 前印象派：走向真实，1820—1870
 
 ## 4. Reflections of Clouds on the Water-Lily Pond 睡莲 1920 （Claude Monet, 克劳德·莫奈）
 
@@ -77,9 +77,9 @@
 ![](./images/5DDCFF55D0914FAC9A52A3839F05723B.png)
 
 
-# THREE
+# 3 印象派：现代生活的画家，1870—1890
 
-## 11. Impression, Sunrise (Impression, soleil levant) 印象，日出 1872（Claude Monet  克劳德·莫奈）
+## 11. Impression, Sunrise (Impression, soleil levant) 印象，日出 1872（Claude Monet 克劳德·莫奈）
 
 [作品链接](https://en.wikipedia.org/wiki/Impression,_Sunrise)
 
@@ -93,7 +93,7 @@
 ![](./images/4C98ECABAA554D419E9EBB792ACBDF18.png)
 
 
-## 13. Hoar Frost, the Old Road to Ennery 白霜，通往埃纳里的老路  1873（Camille Pissarro, 卡米耶·毕沙罗）
+## 13. Hoar Frost, the Old Road to Ennery 白霜，通往埃纳里的老路 1873（Camille Pissarro, 卡米耶·毕沙罗）
 
 [作品链接](https://artbookannex.com/tag/ennery/)
 
@@ -156,23 +156,23 @@
 ![](./images/edgar-degas-at-the-races-in-the-countryside-google-art-project.jpg)
 
 
-# FOUR
+# 4 后印象派：拓展领域，1880—1906
 
 ## 22. The Potato Eaters 吃土豆的人 1885（Vincent Willem van Gogh, 文森特·梵高）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Potato_Eaters)
 
-![](./images/61529F0679A14DA68A457359EA7CCEC5.png)
+![](./images/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg)
 
 
 ## 23. The Yellow House 黄房子 1888 （Vincent Willem van Gogh, 文森特·梵高）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Yellow_House)
 
-![](./images/FE4D0338E94F4F0E8BCA8F61D10A9483.png)
+![](./images/Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg)
 
 
-## 24. Still Life With a Plate of Onions 静物：一盘洋葱  1889 （Vincent Willem van Gogh, 文森特·梵高）
+## 24. Still Life With a Plate of Onions 静物：一盘洋葱 1889 （Vincent Willem van Gogh, 文森特·梵高）
 
 [作品链接](https://commons.wikimedia.org/wiki/File:Still_life_with_a_plate_of_onions.jpg)
 
@@ -235,28 +235,28 @@
 ![](./images/8657D2035D4048DDBD54B2CAD14C679B.png)
 
 
-## 33. Painter on the Road to Tarascon, August 1888 (destroyed by fire in the Second World War) 去往塔拉斯孔路上的画家 1888  （Vincent Willem van Gogh, 文森特·梵高）
+## 33. Painter on the Road to Tarascon (destroyed by fire in the Second World War) 去往塔拉斯孔路上的画家 1888 （Vincent Willem van Gogh, 文森特·梵高）
 
 [作品链接](https://en.wikipedia.org/wiki/Vincent_van_Gogh#/media/File:Vincent_Van_Gogh_0013.jpg)
 
 ![](./images/2D8DFD94E11941DF851374D573DEB95B.png)
 
 
-## 34. Vision after the Sermon (Jacob Wrestling with the Angel) 布道后的幻象（雅各与天使搏斗） 1888（Paul Gauguin,  保罗·高更） 
+## 34. Vision after the Sermon (Jacob Wrestling with the Angel) 布道后的幻象（雅各与天使搏斗） 1888（Paul Gauguin, 保罗·高更） 
 
 [作品链接](https://en.wikipedia.org/wiki/Vision_After_the_Sermon)
 
 ![](./images/6073D71E2CBD4C6DAA99619F8633AF0E.png)
 
 
-## 35. No te aha oe riri (Why Are You Angry?), 你为何生气 1896（Paul Gauguin,  保罗·高更） 
+## 35. No te aha oe riri (Why Are You Angry?), 你为何生气 1896（Paul Gauguin, 保罗·高更） 
 
 [作品链接](http://www.artic.edu/aic/collections/artwork/16496)
 
 ![](./images/3E1AD37F5D274BE491CD05C6179282BB.png)
 
 
-## 36. Bathers at Asnières (French: Une Baignade, Asnières)  阿尼埃尔的浴场 1884（Georges Seurat, 乔治·修拉）
+## 36. Bathers at Asnières (Une Baignade, Asnières)  阿尼埃尔的浴场 1884（Georges Seurat, 乔治·修拉）
 
 [作品链接](https://en.wikipedia.org/wiki/Bathers_at_Asni%C3%A8res)
 
@@ -270,7 +270,7 @@
 ![](./images/1ACF5C2E761B4294A8D2CB5503DCE53C.png)
 
 
-# FIVE
+# 5 塞尚：吾人之父，1839—1906
 
 ## 38. Still Life with Apples and Peaches 有苹果和桃子的静物 1905（Paul Cézanne, 保罗·塞尚）
 
@@ -279,16 +279,16 @@
 ![](./images/FE4B2DFFEA814CB8B42826012C136CC4.png)
 
 
-## 39. Mont Sainte-Victoire with Large Pine 圣维克多山 1887  （Paul Cézanne, 保罗·塞尚）
+## 39. Mont Sainte-Victoire with Large Pine 圣维克多山 1887 （Paul Cézanne, 保罗·塞尚）
 
 [作品链接](https://en.wikipedia.org/wiki/Mont_Sainte-Victoire_with_Large_Pine)
 
 ![](./images/2ABD1F5C31B248B08A0E4BA473D8997E.png)
 
 
-# SIX
+# 6 原始主义，1880—1930/野兽派，1905—1910：原始的呐喊
 
-## 40. The Kiss 吻 1907-1908  （Gustav Klimt,  古斯塔夫·克里姆特） 
+## 40. The Kiss 吻 1907-1908 （Gustav Klimt, 古斯塔夫·克里姆特） 
 
 [作品链接](https://en.wikipedia.org/wiki/The_Kiss_(Klimt))
 
@@ -297,10 +297,14 @@
 
 ## 41. Boats in the Harbour at Collioure 科利乌尔港的船 1905 （André Derain, 安德烈·德兰）
 
+[作品链接](https://www.aaronartprints.org/derain-boatsintheharbour.php)
+
 ![](./images/5418491054594CAD9AC7169E6FC86F06.png)
 
 
 ## 42. Restaurant de la Machine at Bougival 布吉瓦尔的餐馆 1905（Maurice de Vlaminck, 莫里斯·德·弗拉芒克）
+
+[作品链接](https://www.musee-orsay.fr/fr/oeuvres/restaurant-de-la-machine-bougival-8048)
 
 ![](./images/EDFF858C032844A7B6D7F0E7A2612117.png)
 
@@ -331,7 +335,7 @@
 ![](./images/832B8B982F35401AAB1EF14FF2ACE628.png)
 
 
-## 47. Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon)  亚维农少女 1907 （Pablo Picasso, 巴勃罗·毕加索）
+## 47. Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon) 亚维农少女 1907 （Pablo Picasso, 巴勃罗·毕加索）
 
 [作品链接](https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon)
 
@@ -339,6 +343,8 @@
 
 
 ## 48. A Carnival Evening 狂欢节之夜 1886（Henri Rousseau, 亨利·卢梭）
+
+[作品链接](https://www.philamuseum.org/collection/object/59593)
 
 ![](./images/A33D749C72164994B8E72829C8C90854.png)
 
@@ -350,25 +356,25 @@
 ![](./images/DF8584B961F44565824D6DBED6F4A62D.png)
 
 
-## 50.  Portrait of a Woman 一个女人的肖像 1895 （Henri Rousseau, 亨利·卢梭）
+## 50. Portrait of a Woman 一个女人的肖像 1895 （Henri Rousseau, 亨利·卢梭）
 
 [作品链接](https://commons.wikimedia.org/wiki/File:Henri_Rousseau__Portrait_of_a_Woman_(1895).jpg)
 
 ![](./images/D8C6AC5BA50C47DF85C252BA56BFCA59.png)
 
 
-## 51. The Kiss (French: Le Baiser)  吻 1882（Auguste Rodin, 奥古斯特·罗丹）
+## 51. The Kiss (French: Le Baiser) 吻 1882（Auguste Rodin, 奥古斯特·罗丹）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Kiss_(Rodin_sculpture))
 
 ![](./images/900214D2FDAF40098D6334EA46EBF82C.png)
 
 
-## 52. The Kiss  吻 1907-1908（Constantin Brâncuși, 康斯坦丁·布朗库西）
+## 52. The Kiss 吻 1907-1908（Constantin Brâncuși, 康斯坦丁·布朗库西）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Kiss_(Br%C3%A2ncu%C8%99i_sculpture))
 
-![](./images/AA833701CC3B48369B6F4242961A8263.png)
+![](./images/constantin-brc3a2ncuc899i-the-kiss-1907.jpg)
 
 
 ## 53. Sleeping Muse, 沉睡的缪斯 1910 （Constantin Brâncuși, 康斯坦丁·布朗库西）
@@ -415,15 +421,14 @@
 
 ## 59. Single Form 单一的形式 1961 （Barbara Hepworth, 芭芭拉·赫普沃斯）
 
-[作品链接](http://www.tate.org.uk/art/artworks/hepworth-single-form-september-t03143)
+[作品链接](https://en.wikipedia.org/wiki/Single_Form)
 
-![](./images/65812AE9262B445ABC8361744EEBF346.png)
-
-
-# SEVEN
+![](./images/Barbara_Hepworth_Single_Form_Battersea.jfif)
 
 
-## 60. Opening of the Fifth Seal 揭开第五印  1608（El Greco, 埃尔·格列柯）
+# 7 立体主义：另一种视角，1907—1914
+
+## 60. Opening of the Fifth Seal 揭开第五印 1608（El Greco, 埃尔·格列柯）
 
 [作品链接](https://en.wikipedia.org/wiki/Opening_of_the_Fifth_Seal)
 
@@ -465,7 +470,7 @@
 ![](./images/CB420C006F8746EE9CCB8FD004FFF7F5.png)
 
 
-## 66. Fruit Dish and Glass 水果盘与玻璃杯  1912 （Georges Braque, 乔治·布拉克）
+## 66. Fruit Dish and Glass 水果盘与玻璃杯 1912 （Georges Braque, 乔治·布拉克）
 
 [作品链接](https://en.wikipedia.org/wiki/Fruit_Dish_and_Glass)
 
@@ -503,13 +508,13 @@
 ![](./images/C77E3A55F88B4D57BC944B17CEBADB4B.png)
 
 
-## 71. States of Mind I: The Farewells  心境I 告别 1911  
+## 71. States of Mind I: The Farewells 心境I 告别 1911 
 
-     States of Mind II: Those Who Go 心境II 离开的人 1911
-    
-     States of Mind III: Those Who Stay 心境III 留下的人 1911
+   States of Mind II: Those Who Go 心境II 离开的人 1911
+  
+   States of Mind III: Those Who Stay 心境III 留下的人 1911
 
-   （UmbertoBoccioni, 翁贝托·薄丘尼）
+  （UmbertoBoccioni, 翁贝托·薄丘尼）
 
 [作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-i-the-farewells-1911)
 
@@ -694,7 +699,7 @@
 ![](./images/F56C8284B43049FA827575BC4E6703D8.png)
 
 
-## 95. Blossoming Apple Tree  开花的苹果树 1912 （Piet Mondrian, 皮埃特·蒙特里安）
+## 95. Blossoming Apple Tree 开花的苹果树 1912 （Piet Mondrian, 皮埃特·蒙特里安）
 
 [作品链接](https://en.wikipedia.org/wiki/Evening;_Red_Tree#/media/File:Blossoming_apple_tree,_by_Piet_Mondriaan.jpg)
 
@@ -798,7 +803,7 @@
 ![](./images/70107B3974BB4B02A4763C5C47005CF7.png)
 
 
-## 110. Barcelona Pavilion 巴塞罗那世博会德国馆  1929 （Ludwig Mies van der Rohe, 路德维希·密斯·凡德罗）
+## 110. Barcelona Pavilion 巴塞罗那世博会德国馆 1929 （Ludwig Mies van der Rohe, 路德维希·密斯·凡德罗）
 
 [作品链接](https://en.wikipedia.org/wiki/Barcelona_Pavilion)
 
@@ -1132,7 +1137,7 @@
 ![](./images/8F0AB79997274561B6DF27A20ED365EE.png)
 
 
-## 156.  Coca-Cola[1] 可口可乐[1] 1961（Andy Warhol, 安迪·沃霍尔）
+## 156. Coca-Cola[1] 可口可乐[1] 1961（Andy Warhol, 安迪·沃霍尔）
 
 [作品链接](https://www.zhihu.com/question/22057640)
 
@@ -1213,7 +1218,7 @@
 ![](./images/4DBF83F6200E4AEA8876194CCB71E23D.png)
 
 
-## 167. Newspaper Sphere 报纸球  1966（Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
+## 167. Newspaper Sphere 报纸球 1966（Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
 
 ![](./images/5E803DF2DD6644CEB3DEB038A4CB1AD2.png)
 
@@ -1373,7 +1378,7 @@
 ![](./images/7820562872EC46EB989B1F3044B21047.png)
 
 
-## 189. The Death of Sardanapalus  萨丹纳帕鲁斯之死 1827（Eugène Delacroix, 欧仁·德拉克罗瓦）
+## 189. The Death of Sardanapalus 萨丹纳帕鲁斯之死 1827（Eugène Delacroix, 欧仁·德拉克罗瓦）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus)
 
@@ -1436,7 +1441,7 @@
 ![](./images/9EC82C502D05400DB363B7A3E63005B8.png)
 
 
-## 198. The Way Things Go 天衣无缝的连锁反应  1987（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）  *art film*
+## 198. The Way Things Go 天衣无缝的连锁反应 1987（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯） *art film*
 
 [作品链接](https://en.wikipedia.org/wiki/The_Way_Things_Go )
 
@@ -1551,7 +1556,7 @@
 ![](./images/3CDD0976925344069F01A584CA1598F4.png)
 
 
-## 214. Miss ko²  ko小姐 1997（Takashi Murakami, 村上隆）
+## 214. Miss ko² ko小姐 1997（Takashi Murakami, 村上隆）
 
 [作品链接](https://www.wikiart.org/en/takashi-murakami/miss-ko-1997)
 
