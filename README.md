@@ -116,7 +116,7 @@
 
 [作品链接](https://en.wikipedia.org/wiki/Haystacks_(Monet_series))
 
-![](./images/Wheatstacks_(End_of_Summer).jpg)
+![](./images/Wheatstacks_End_of_Summer.jpg)
 
 
 ## 17. A Modern Olympia 现代奥林匹亚 1870（Paul Cézanne, 保罗·塞尚）
@@ -1104,160 +1104,193 @@ States of Mind III: Those Who Stay 心境 3 留下的人 1911 [作品链接](htt
 ![](./images/7625DB68DCFB4914831675422A28DC8C.png)
 
 
-## 154. Onement, I 太一 1 1948 （Barnett Newman, 巴尼特·纽曼）
+## 154. Rokeby Venus 镜前的维纳斯 1647-1651 （Diego Velázquez, 委拉斯开兹）
+
+[作品链接](https://en.wikipedia.org/wiki/Rokeby_Venus)
+
+![](./images/RokebyVenus.jpg)
+
+
+## 155. Onement, I 太一 1 1948 （Barnett Newman, 巴尼特·纽曼）
 
 [作品链接](https://www.moma.org/collection/works/79601?locale=en)
 
 ![](./images/9F3303B7DCE84F35AF36ACB3FCDC24D9.png)
 
 
-## 155. Vir Heroicus Sublimis 人，英勇而崇高 1950-1951 （Barnett Newman, 巴尼特·纽曼）
+## 156. Vir Heroicus Sublimis 人，英勇而崇高 1950-1951 （Barnett Newman, 巴尼特·纽曼）
 
 [作品链接](https://www.moma.org/collection/works/79250?locale=en)
 
 ![](./images/5E9B8089F1E146D3ACD2D119AFEAD4E1.png)
 
 
-## 156. Untitled (Violet, Black, Orange, Yellow on White and Red) 无题（白红上的紫罗兰色、黑色、橙色和黄色） 1949 （Mark Rothko, 马克·罗斯科）
+## 157. Untitled (Violet, Black, Orange, Yellow on White and Red) 无题（白红上的紫罗兰色、黑色、橙色和黄色） 1949 （Mark Rothko, 马克·罗斯科）
 
 [作品链接](https://www.guggenheim.org/artwork/3533)
 
 ![](./images/4351D06DB36E44F3A09CF137C5D8B402.png)
 
 
-## 157. Ochre and Red on Red 赭石，红上之红 1949 （Mark Rothko, 马克·罗斯科）
+## 158. Ochre and Red on Red 赭石，红上之红 1949 （Mark Rothko, 马克·罗斯科）
 
 [作品链接](https://www.wikiart.org/en/mark-rothko/ochre-and-red-on-red-1)
 
 ![](./images/B0A775B349054B50820BB9095E98B814.png)
 
 
-## 158. Australia 澳大利亚 1951 （David Smith, 大卫·史密斯）
+## 159. Australia 澳大利亚 1951 （David Smith, 大卫·史密斯）
 
 [作品链接](https://www.moma.org/collection/works/82047?locale=en)
 
 ![](./images/4AA937C3EA854F2CB23C276679D8587C.png)
 
 
-## 159. Early One Morning 一天清晨 1962 （Anthony Caro, 安东尼·卡洛）
+## 160. Early One Morning 一天清晨 1962 （Anthony Caro, 安东尼·卡洛）
 
 [作品链接](http://www.tate.org.uk/art/artworks/caro-early-one-morning-t00805)
 
 ![](./images/4B005A546B7246B28AA285B3CC41D38B.png)
 
 
-# SIXTEEN
+# 16 波普艺术：零售疗法，1956—1970
 
-
-## 160. I was a Rich Man’s Plaything 我是一个有钱人的玩物 1947 （Eduardo Paolozzi, 爱德华多·保罗齐）
+## 161. I was a Rich Man’s Plaything 我是一个有钱人的玩物 1947 （Eduardo Paolozzi, 爱德华多·保罗齐）
 
 [作品链接](http://www.tate.org.uk/art/artworks/paolozzi-i-was-a-rich-mans-plaything-t01462)
 
 ![](./images/A490C7B6E41544268D516166E217225F.png)
 
 
-## 161. Just what is it that makes today's homes so different, so appealing? 是什么让今天的家庭如此不同、如此富有魅力？ 1956 （Richard Hamilton, 理查德·汉密尔顿）
+## 162. Just what is it that makes today's homes so different, so appealing? 是什么让今天的家庭如此不同、如此富有魅力？ 1956 （Richard Hamilton, 理查德·汉密尔顿）
 
 [作品链接](https://en.wikipedia.org/wiki/Just_what_is_it_that_makes_today%27s_homes_so_different,_so_appealing%3F)
 
 ![](./images/567B12F07D3A482094028D023E2E9D6E.png)
 
 
-## 162. Flag 旗 1954-1955（Jasper Johns, 贾斯培·琼斯）
+## 163. Flag 旗 1954-1955（Jasper Johns, 贾斯培·琼斯）
 
 [作品链接](https://www.moma.org/collection/works/78805?locale=en)
 
 ![](./images/3BE1E550AE9B490A9EA0DDF5466972E4.png)
 
 
-## 163. Monogram 字母组合 1955-1959（Robert Rauschenberg, 罗伯特·劳森伯格）
+## 164. Monogram 字母组合 1955-1959（Robert Rauschenberg, 罗伯特·劳森伯格）
 
 [作品链接](https://www.moma.org/audio/playlist/40/648)
 
 ![](./images/6FEAE3CA9A3441EC8ACA597B1496B8BD.png)
 
 
-## 164.  White Painting 白色绘画 1951 （Robert Rauschenberg, 罗伯特·劳森伯格）
+## 165. White Painting 白色绘画 1951 （Robert Rauschenberg, 罗伯特·劳森伯格）
 
 [作品链接](https://www.moma.org/audio/playlist/40/639)
 
 ![](./images/90581DABFC364EE1AC73D3C8DF7BD1F3.png)
 
 
-## 165. Erased de Kooning Drawing 擦除的德·库宁绘画 1953 （Robert Rauschenberg, 罗伯特·劳森伯格）
+## 166. White on White 白上之白 1918 （Kazimir Malevich, 卡济米尔·马列维奇）
+
+[作品链接](https://en.wikipedia.org/wiki/White_on_White)
+
+![](./images/White_on_White.png)
+
+
+## 167. Erased de Kooning Drawing 擦除的德·库宁绘画 1953 （Robert Rauschenberg, 罗伯特·劳森伯格）
 
 [作品链接](https://www.rauschenbergfoundation.org/art/artwork/erased-de-kooning-drawing)
 
 ![](./images/8F0AB79997274561B6DF27A20ED365EE.png)
 
 
-## 166. Coca-Cola[1] 可口可乐[1] 1961（Andy Warhol, 安迪·沃霍尔）
+## 168. Coca-Cola 可口可乐 1961（Andy Warhol, 安迪·沃霍尔）
 
 [作品链接](https://www.zhihu.com/question/22057640)
 
 ![](./images/B3CD7086FC7143AD864A7EB4A114B0E4.png)
 
 
-## 167. Water Heater 热水器 1961 （Andy Warhol, 安迪·沃霍尔）
+## 169. Water Heater 热水器 1961 （Andy Warhol, 安迪·沃霍尔）
 
 [作品链接](https://www.moma.org/collection/works/80290?locale=en)
 
 ![](./images/803EF64AB0364B0B8D4384ABF3A5DC26.png)
 
 
-## 168. Campbell's Soup Cans 金宝汤罐头 1962 （Andy Warhol, 安迪·沃霍尔）
+## 170. Campbell's Soup Cans 金宝汤罐头 1962 （Andy Warhol, 安迪·沃霍尔）
 
 [作品链接](https://www.moma.org/collection/works/79809?locale=en)
 
 ![](./images/1331CB8DC6EA465590192F4B47BF72F3.png)
 
 
-## 169. Marilyn Diptych 玛丽莲双联画 1962 （Andy Warhol, 安迪·沃霍尔）
+## 171. Sunflower Seeds 葵花籽 2010 （Ai Weiwei, 艾未未）
+
+[作品链接](https://www.tate.org.uk/art/artworks/ai-sunflower-seeds-t13408)
+
+![](./images/T13408_10.jpg)
+
+
+## 172. Marilyn Diptych 玛丽莲双联画 1962 （Andy Warhol, 安迪·沃霍尔）
 
 [作品链接](https://en.wikipedia.org/wiki/Marilyn_Diptych)
 
 ![](./images/DE51D4EAD99B4074A27BC17BF1C63C65.png)
 
 
-## 170. Superman 超人 1961 （Andy Warhol, 安迪·沃霍尔）
+## 173. Superman 超人 1961 （Andy Warhol, 安迪·沃霍尔）
 
 [作品链接](https://theartstack.com/artist/andy-warhol/superman-1961)
 
 ![](./images/16FB2C809F8E4B3E8F0EAC8DD15B48A3.png)
 
 
-## 171. Whaam! 嘭！ 1963 （Roy Lichtenstein, 罗伊·利希滕斯坦）
+## 174. Whaam! 嘭！ 1963 （Roy Lichtenstein, 罗伊·利希滕斯坦）
 
 [作品链接](https://en.wikipedia.org/wiki/Whaam!)
 
 ![](./images/C8565A48086C4E06AA113AB7E9BEFBAD.png)
 
 
-## 172. Brushstroke 笔触 1965（Roy Lichtenstein, 罗伊·利希滕斯坦）
+## 175. Brushstroke 笔触 1965（Roy Lichtenstein, 罗伊·利希滕斯坦）
 
 [作品链接](https://www.moma.org/collection/works/60284?locale=en)
 
 ![](./images/C1166F1E8133435F9931BEFD7E102603.png)
 
 
-## 173. Two Cheeseburgers, with Everything (Dual Hamburgers) 两个一切都有的芝士汉堡（双份汉堡） 1962 （Claes Oldenburg, 克拉斯·欧登伯格）
+## 176. Two Cheeseburgers, with Everything (Dual Hamburgers) 两个一切都有的芝士汉堡（双份汉堡） 1962 （Claes Oldenburg, 克拉斯·欧登伯格）
 
 [作品链接](https://www.moma.org/collection/works/81183?locale=en)
 
 ![](./images/FA0A776343D84D36A5839E7DD2E2CE04.png)
 
 
-# SEVENTEEN
+# 17 观念主义/激流派/贫穷艺术/行为艺术：心灵游戏，1952年至今
+
+## 177. 1000 2009 （Paola Pivi, 保拉·皮维）
+
+[作品链接](https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/paola-pivi)
+
+![](./images/ppivi1.jpg)
 
 
-## 174. The Artist Is Present 艺术家在现场 2010 （Marina Abramović, 玛丽娜·阿布拉莫维奇）
+## 178. Volatile 挥发物 1980-1994 （Cildo Meireles, 切尔多·梅雷莱斯）
+
+[作品链接](https://www.tate.org.uk/whats-on/tate-modern/exhibition/cildo-meireles/cildo-meireles-explore-exhibition/cildo-meireles-5)
+
+![](./images/meireles_volatile_1980_94.jpg)
+
+
+## 179. The Artist Is Present 艺术家在现场 2010 （Marina Abramović, 玛丽娜·阿布拉莫维奇）
 
 [作品链接](https://www.moma.org/learn/moma_learning/marina-abramovic-marina-abramovic-the-artist-is-present-2010)
 
 ![](./images/1533749641824EA4B6AD78CB218C3D21.png)
 
 
-## 175. 18 Happenings in 6 Parts 6处18次即兴表演 1959 （Allan Kaprow, 艾伦·卡普罗）
+## 180. 18 Happenings in 6 Parts 6处18次即兴表演 1959 （Allan Kaprow, 艾伦·卡普罗）
 
 [作品链接](http://www.medienkunstnetz.de/works/18-happenings-in-6-parts/)
 
@@ -1265,61 +1298,66 @@ States of Mind III: Those Who Stay 心境 3 留下的人 1911 [作品链接](htt
 ![](./images/2967D910930E47ABA00963D00EF7095C.png)
 
 
-## 176. Spatial Concept: Expectations 空间概念：等待 1960 （Lucio Fontana, 卢齐欧·冯塔纳）
+## 181. Anthropométrie de l'Époque Bleue (Anthropometry of the Blue Period) 蓝色时期的人体测量 1960 （Yves Klein, 伊夫·克莱因）
+
+[作品链接](http://www.yvesklein.com/en/oeuvres/view/595/anthropometrie-de-l-epoque-bleue-anthropometry-of-the-blue-period/)
+
+![](./images/picture_file_1394.jpg)
+
+
+## 182. Spatial Concept: Expectations 空间概念：等待 1960 （Lucio Fontana, 卢齐欧·冯塔纳）
 
 [作品链接](https://www.moma.org/collection/works/79874?locale=en)
 
 ![](./images/4DBF83F6200E4AEA8876194CCB71E23D.png)
 
 
-## 177. Newspaper Sphere 报纸球 1966（Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
+## 183. Newspaper Sphere 报纸球 1966（Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
 
 ![](./images/5E803DF2DD6644CEB3DEB038A4CB1AD2.png)
 
 
-## 178. Venus of the Rags 破衫中的维纳斯 1967 （Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
+## 184. Venus of the Rags 破衫中的维纳斯 1967 （Michelangelo Pistoletto, 米开朗基罗·皮斯特莱托）
 
 [作品链接](http://www.tate.org.uk/art/artworks/pistoletto-venus-of-the-rags-t12200)
 
 ![](./images/A80E6FBB799046F78A585E13ECA27D15.png)
 
 
-## 179. Untitled (12 Horses) 无题（12匹马）1969（Jannis Kounellis, 简尼斯·库奈利斯）
+## 185. Untitled (12 Horses) 无题（12匹马）1969 （Jannis Kounellis, 简尼斯·库奈利斯）
 
 ![](./images/354DE98480B241628F04B8642CD90FDD.png)
 
 
-## 180. The Pack 一群 1969（Joseph Beuys, 约瑟夫·博伊斯）
+## 186. The Pack 一群 1969（Joseph Beuys, 约瑟夫·博伊斯）
 
 [作品链接](https://www.wikiart.org/en/joseph-beuys/the-pack-1969)
 
 ![](./images/27455D3DB8314C5D99044F5038EBA301.png)
 
 
-## 181. I Like America and America Likes Me 我爱美国，美国爱我 1974 （Joseph Beuys, 约瑟夫·博伊斯）
+## 187. I Like America and America Likes Me 我爱美国，美国爱我 1974 （Joseph Beuys, 约瑟夫·博伊斯）
 
 [作品链接](https://www.wikiart.org/en/joseph-beuys/i-like-america-and-america-likes-me)
 
 ![](./images/9C9A39B018B54E35A0764E616DD926EC.png)
 
 
-## 182. How to Explain Pictures to a Dead Hare 怎样向一只死兔子解释绘画 1965（Joseph Beuys, 约瑟夫·博伊斯）
+## 188. How to Explain Pictures to a Dead Hare 怎样向一只死兔子解释绘画 1965（Joseph Beuys, 约瑟夫·博伊斯）
 
 [作品链接](https://www.wikiart.org/en/joseph-beuys/how-to-explain-pictures-to-a-dead-hare-1965-1)
 
 ![](./images/99205D8940624BB0A836001581D4CB39.png)
 
 
-## 183. Cut Piece 切片 1964 （Yoko Ono, 小野洋子）
-
-[知乎链接](https://www.zhihu.com/question/30260734?sort=created)
+## 189. Cut Piece 切片 1964 （Yoko Ono, 小野洋子）
 
 [作品链接](https://www.moma.org/learn/moma_learning/yoko-ono-cut-piece-1964)
 
 ![](./images/7919A228DED84BBF86C60C8BBAD8726D.png)
 
 
-## 184. Failure to Levitate in the Studio 未能在工作室漂浮 1966（Bruce Nauman, 布鲁斯·瑙曼）
+## 190. Failure to Levitate in the Studio 未能在工作室漂浮 1966（Bruce Nauman, 布鲁斯·瑙曼）
 
 [作品链接](http://www.artda.cn/view.php?tid=2306&cid=29)
 
@@ -1328,310 +1366,335 @@ States of Mind III: Those Who Stay 心境 3 留下的人 1911 [作品链接](htt
 ![](./images/A55276FE2FC0473FA8CA7CD1D53D63D6.png)
 
 
-## 185. Dance or Exercise on the Perimeter of a Square (Square Dance) 在广场周边跳舞或锻炼（广场舞） 1967（Bruce Nauman, 布鲁斯·瑙曼）
+## 191. Dance or Exercise on the Perimeter of a Square (Square Dance) 在广场周边跳舞或锻炼（广场舞） 1967（Bruce Nauman, 布鲁斯·瑙曼）
 
 [作品链接](https://www.moma.org/collection/works/119087)
 
 ![](./images/86DA3C0A71B1461EA6BE602799B743DB.png)
 
 
-## 186. The Collectors 收藏家 1990-1992 （Francis Alÿs, 弗朗西斯·阿里斯）
+## 192. The Collectors 收藏家 1990-1992 （Francis Alÿs, 弗朗西斯·阿里斯）
 
 [作品链接](http://www.tate.org.uk/whats-on/tate-modern/exhibition/francis-alys/francis-alys-story-deception-room-guide/francis-alys-0)
 
 ![](./images/0DD5329FA291471182EB87D88C242453.png)
 
 
-## 187. Re-enactments 重演 2001（Francis Alÿs, 弗朗西斯·阿里斯）
+## 193. Re-enactments 重演 2001（Francis Alÿs, 弗朗西斯·阿里斯）
 
 [作品链接](https://www.moma.org/collection/works/130829)
 
 ![](./images/28391558022A4CC68AC7B790881458B0.png)
 
 
-## 188. A Line Made by Walking 走出来的线 1967（Richard Long, 理查德·朗）
+## 194. A Line Made by Walking 走出来的线 1967（Richard Long, 理查德·朗）
 
 [作品链接](http://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-ar00142)
 
 ![](./images/C868427DADF141B399D3274295C451DC.png)
 
 
-## 189. Spiral Jetty 螺旋形的防波堤 1970（Robert Smithon, 罗伯特•史密森）
+## 195. Spiral Jetty 螺旋形的防波堤 1970（Robert Smithon, 罗伯特•史密森）
 
 [作品链接](https://en.wikipedia.org/wiki/Spiral_Jetty)
 
 ![](./images/AC42E8EACE1844E0BAC95A7DE47A879A.png)
 
 
-# EIGHTEEN
+# 18 极简主义：无题，1960—1975
 
-
-## 190. Untitled 无题 1972（Donald Judd, 唐纳德·贾德）
+## 196. Untitled 无题 1972（Donald Judd, 唐纳德·贾德）
 
 [作品链接](http://www.tate.org.uk/art/artworks/judd-untitled-t06524)
 
 ![](./images/2492582730334DC38BE4A2CB781717B3.png)
 
 
-## 191. Untitled (Stack)  无题（堆叠）1967（Donald Judd, 唐纳德·贾德）
+## 197. Untitled (Stack)  无题（堆叠）1967（Donald Judd, 唐纳德·贾德）
 
 [作品链接](https://www.moma.org/collection/works/81324?locale=en)
 
 ![](./images/BAEB2CEAFEF64D31AF22D7D26D0B2629.png)
 
 
-## 192. The Marriage of Reason and Squalor, II 理性与卑劣的联姻 2 1959（Frank Stella, 弗兰克·斯特拉）
+## 198. The Marriage of Reason and Squalor, II 理性与卑劣的联姻 2 1959（Frank Stella, 弗兰克·斯特拉）
 
 [作品链接](https://www.moma.org/collection/works/80316)
 
 ![](./images/B7180E6406E24F23B0A8335D151493BA.png)
 
 
-## 193. Hyena Stomp 鬣狗爵士舞 1962（Frank Stella, 弗兰克·斯特拉）
+## 199. Hyena Stomp 鬣狗爵士舞 1962（Frank Stella, 弗兰克·斯特拉）
 
 [作品链接](http://www.tate.org.uk/art/artworks/stella-hyena-stomp-t00730)
 
 ![](./images/DA37AE29CAE0401F842FD89DB8E36539.png)
 
 
-## 194. 144 Magnesium Square 144块镁方砖 1969 （Carl Andre, 卡尔·安德烈）
+## 200. 144 Magnesium Square 144块镁方砖 1969 （Carl Andre, 卡尔·安德烈）
 
 [作品链接](http://www.tate.org.uk/art/artworks/andre-144-magnesium-square-t01767)
 
 ![](./images/553D626346AB4C088D3C09F56EA76E8B.png)
 
 
-## 195. "monument" 1 for V. Tatlin 献给 V·塔特林之纪念碑 1 1964（Dan Flavin, 丹·弗莱文）
+## 201. "monument" 1 for V. Tatlin 献给 V·塔特林之纪念碑 1 1964（Dan Flavin, 丹·弗莱文）
 
 [作品链接](https://www.moma.org/collection/works/81337?locale=en)
 
 ![](./images/A7FDD780F23C4EDB9CD89EC907E3C594.png)
 
 
-## 196. Serial Project, I (ABCD) 序列工程 1 （ABCD） 1966 （Sol LeWitt, 索尔·勒维特）
+## 202. Serial Project, I (ABCD) 序列工程 1 （ABCD） 1966 （Sol LeWitt, 索尔·勒维特）
 
 [作品链接](https://www.moma.org/collection/works/81533?locale=en)
 
 ![](./images/40070AAE739D422F83C38543FA1B3867.png)
 
 
-# NINETEEN
+# 19 后现代主义：假身份，1970—1989
+
+## 203. 550 Madison Avenue 麦迪逊大道550号 1984（Philip Johnson and John Burgee, 菲利普·约翰逊，约翰·伯奇）
+
+[作品链接](https://en.wikipedia.org/wiki/550_Madison_Avenue)
+
+![](./images/Sony_Building_by_David_Shankbone_crop.jpg)
 
 
-## 197. Untitled Film Still #21 无题电影剧照 #21 1978（Cindy Sherman, 辛迪·舍曼）
+## 204. Untitled Film Still #21 无题电影剧照 #21 1978（Cindy Sherman, 辛迪·舍曼）
 
 [作品链接](https://www.moma.org/collection/works/56618?locale=en)
 
 ![](./images/50C1C3B65AEE4A6ABF889754E6914475.png)
 
 
-## 198. The Destroyed Room 损毁的房间 1978（Jeff Wall, 杰夫·沃尔）
+## 205. The Destroyed Room 损毁的房间 1978（Jeff Wall, 杰夫·沃尔）
 
 [作品链接](http://www.tate.org.uk/whats-on/tate-modern/exhibition/jeff-wall/jeff-wall-room-guide/jeff-wall-room-guide-room-1)
 
 ![](./images/7820562872EC46EB989B1F3044B21047.png)
 
 
-## 199. The Death of Sardanapalus 萨丹纳帕鲁斯之死 1827（Eugène Delacroix, 欧仁·德拉克罗瓦）
+## 206. The Death of Sardanapalus 萨丹纳帕鲁斯之死 1827（Eugène Delacroix, 欧仁·德拉克罗瓦）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus)
 
 ![](./images/ED634EB4D4C74FFE8DF45ED55E9D28A3.png)
 
 
-## 200. Mimic 模拟 1982（Jeff Wall, 杰夫·沃尔）
+## 207. Mimic 模拟 1982（Jeff Wall, 杰夫·沃尔）
 
 [作品链接](http://www.tate.org.uk/whats-on/tate-modern/exhibition/jeff-wall/jeff-wall-room-guide/jeff-wall-room-guide-room-3)
 
 ![](./images/E11B07D132404858A2E9516E06394340.png)
 
 
-## 201. Paris Street; Rainy Day 巴黎街道：雨天 1877（Gustave Caillebotte, 古斯塔夫·卡耶博特）
+## 208. Paris Street; Rainy Day 巴黎街道：雨天 1877（Gustave Caillebotte, 古斯塔夫·卡耶博特）
 
 [作品链接](https://en.wikipedia.org/wiki/Paris_Street;_Rainy_Day)
 
 ![](./images/01398D0665274930B4529633AB276F02.png)
 
 
-## 202. Untitled (I shop therefore I am) 无题（我买故我在） 1987（Barbara Kruger, 芭芭拉·克鲁格）
+## 209. Untitled (I shop therefore I am) 无题（我买故我在） 1987（Barbara Kruger, 芭芭拉·克鲁格）
 
 [作品链接](https://www.wikiart.org/en/barbara-kruger/untitled-i-shop-therefore-i-am-1987)
 
 ![](./images/964E44A3BB054E54934D084821B86D91.png)
 
 
-## 203. Untitled (Your body is a battleground)  无题（你的身体是战场）1989（Barbara Kruger, 芭芭拉·克鲁格）
+## 210. Untitled (Your body is a battleground)  无题（你的身体是战场）1989（Barbara Kruger, 芭芭拉·克鲁格）
 
 [作品链接](https://www.artsy.net/artwork/barbara-kruger-untitled-your-body-is-a-battleground-1)
 
 ![](./images/71A1F4C5F5A94C21A9467E06512695CF.png)
 
 
-## 204. Untitled (You Invest in the Divinity of the Masterpiece) 无题（你投资杰作之神圣性）1982（Barbara Kruger, 芭芭拉·克鲁格）
+## 211. Untitled (You Invest in the Divinity of the Masterpiece) 无题（你投资杰作之神圣性）1982（Barbara Kruger, 芭芭拉·克鲁格）
 
 [作品链接](https://www.moma.org/collection/works/79334)
 
 ![](./images/4D8E185753A64ACE9CA6C083AED0FE94.png)
 
 
-## 205. How to Work Better 怎么更好工作 1991（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）
+## 212. How to Work Better 怎么更好工作 1991（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）
 
 [作品链接](https://www.moma.org/collection/works/222300?locale=en&recent_acquisitions=1)
 
 ![](./images/E7970A2F9B6C4D73A8BE62C7ADB2E983.png)
 
 
-## 206. Tips for Artists Who Want to Sell 给想卖作品的艺术家的建议 1966-1968 （John Baldessari, 约翰·巴尔代萨里）
+## 213. Tips for Artists Who Want to Sell 给想卖作品的艺术家的建议 1966-1968 （John Baldessari, 约翰·巴尔代萨里）
 
 [作品链接](https://www.thebroad.org/art/john-baldessari/tips-artists-who-want-sell)
 
 ![](./images/05B19F2132A94EE78A79B85BCFBE0F46.png)
 
 
-## 207. Heel 脚后跟 1986 （John Baldessari, 约翰·巴尔代萨里）
+## 214. Heel 脚后跟 1986 （John Baldessari, 约翰·巴尔代萨里）
 
 [作品链接](https://theartstack.com/artist/john-baldessari/heel)
 
 ![](./images/9EC82C502D05400DB363B7A3E63005B8.png)
 
 
-## 208. The Way Things Go 天衣无缝的连锁反应 1987（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯） *art film*
+## 215. The Way Things Go 天衣无缝的连锁反应 1987（Peter Fischli & David Weiss, 彼得·弗施利与大卫·韦斯）
 
 [作品链接](https://en.wikipedia.org/wiki/The_Way_Things_Go )
 
 ![](./images/DC20C0C2DF9E47F1ACCF083F309D90AA.png)
 
 
-# TWENTY
+# 20 今日艺术：名利场，1988—2008至今
 
-
-## 209. Made in Heaven 天堂制造 1989（Jeff Koons，杰夫·昆斯）
+## 216. Made in Heaven 天堂制造 1989（Jeff Koons, 杰夫·昆斯）
 
 [作品链接](http://www.jeffkoons.com/artwork/made-in-heaven)
 
 ![](./images/2D6B76A3051C47D98DD87282064DBEF5.png)
 
 
-## 210. Spot Painting 现场画 1986（Damien Hirst, 达米恩·赫斯特）
+## 217. Spot Painting 现场画 1986（Damien Hirst, 达米恩·赫斯特）
 
 [作品链接](http://www.damienhirst.com/spot-painting)
 
 ![](./images/941FC36F639542359DE2C84825BC02F8.png)
 
 
-## 211. A Thousand Years 一千年 1990 （Damien Hirst, 达米恩·赫斯特）
+## 218. A Thousand Years 一千年 1990 （Damien Hirst, 达米恩·赫斯特）
 
 [作品链接](http://www.damienhirst.com/a-thousand-years)
 
 ![](./images/B1A065338A6B498C94FE151AC0B8AC53.png)
 
 
-## 212. The Physical Impossibility of Death in the Mind of Someone Living 生者对于死亡的无动于衷 1991（Damien Hirst, 达米恩·赫斯特）
+## 219. The Physical Impossibility of Death in the Mind of Someone Living 生者对于死亡无动于衷 1991（Damien Hirst, 达米恩·赫斯特）
 
 [作品链接](http://www.damienhirst.com/the-physical-impossibility-of)
 
 ![](./images/75655B30C05F410697013E1BE61BF492.png)
 
 
-## 213. Self 自己 1991（Marc Quinn, 马克·奎恩）
+## 220. Self 自己 1991（Marc Quinn, 马克·奎恩）
 
 [作品链接](http://marcquinn.com/artworks/single/self-1991)
 
 ![](./images/7A129C7F802441A59061E2B9264DBA78.png)
 
 
-## 214. Myra 迈尔 1995 （Marcus Harvey, 马克斯·哈维）
+## 221. Myra 迈拉 1995 （Marcus Harvey, 马克斯·哈维）
 
 [作品链接](https://en.wikipedia.org/wiki/Myra_(painting))
 
 ![](./images/338739803AB74D48BCF5E2927A2BF240.png)
 
 
-## 215. For the Love of God 献给上帝的爱 2007（Damien Hirst, 达米恩·赫斯特）
+## 222. For the Love of God 献给上帝的爱 2007（Damien Hirst, 达米恩·赫斯特）
 
 [作品链接](http://www.damienhirst.com/for-the-love-of-god)
 
 ![](./images/9FD97E0F90E446DE87D175FCD0D0A41E.png)
 
 
-## 216. Two Fried Eggs and a Kebab 两个煎鸡蛋和一根烤肉串 1992（Sarah Lucas, 莎拉·卢卡斯）
+## 223. Two Fried Eggs and a Kebab 两个煎鸡蛋和一根烤肉串 1992（Sarah Lucas, 莎拉·卢卡斯）
 
 [作品链接](http://www.saatchigallery.com/artists/artpages/sarah_lucas_2.htm)
 
 ![](./images/003E65775B5843E1A6E5E0B709BFB07F.png)
 
 
-## 217. Au Naturel 裸体 1994（Sarah Lucas, 莎拉·卢卡斯）
+## 224. Au Naturel 裸体 1994（Sarah Lucas, 莎拉·卢卡斯）
 
 [作品链接](http://www.saatchigallery.com/artists/artpages/sarah_lucas_1.htm)
 
 ![](./images/82660A913DD04DFFA37C1E7DA5748F61.png)
 
 
-## 218. Everyone I Have Ever Slept With 1963–1995 1963至1995年曾经和我睡在一起的每一个人 1995 （Tracey Emin, 翠西·艾敏）
+## 225. Everyone I Have Ever Slept With 1963–1995 1963至1995年曾经和我睡在一起的每一个人 1995 （Tracey Emin, 翠西·艾敏）
 
 [作品链接](https://en.wikipedia.org/wiki/Everyone_I_Have_Ever_Slept_With_1963%E2%80%931995)
 
 ![](./images/CB9BD52C3FC44A10B351ADC15F84680A.png)
 
 
-## 219. My Bed 我的床 1998 （Tracey Emin, 翠西·艾敏）
+## 226. My Bed 我的床 1998 （Tracey Emin, 翠西·艾敏）
 
 [作品链接](https://en.wikipedia.org/wiki/My_Bed)
 
 ![](./images/0CD0B5E1EA1D4B58985FE3DB17F0A228.png)
 
 
-## 220. Hotel International 国际酒店 1993（Tracey Emin, 翠西·艾敏）
+## 227. Hotel International 国际酒店 1993（Tracey Emin, 翠西·艾敏）
 
 [作品链接](https://www.artsy.net/artwork/tracey-emin-hotel-international)
 
 ![](./images/7167178F62A1409B987714AD66B57D9C.png)
 
 
-## 221. Tea Painting in an Illusionistic Style 透视风格的茶画 1961（David Hockney, 大卫·霍克尼）
+## 228. Tea Painting in an Illusionistic Style 透视风格的茶画 1961（David Hockney, 大卫·霍克尼）
 
 [作品链接](http://www.tate.org.uk/art/artworks/hockney-tea-painting-in-an-illusionistic-style-t07075)
 
 ![](./images/C0424E0D15C64CAE88949DB37CE20FD1.png)
 
 
-## 222. Victory Boogie Woogie 胜利之舞 1942-1943（Piet Mondrian, 皮埃特·蒙特里安）
+## 229. Victory Boogie Woogie 胜利之舞 1942-1943（Piet Mondrian, 皮埃特·蒙特里安）
 
 [作品链接](https://en.wikipedia.org/wiki/Victory_Boogie_Woogie)
 
 ![](./images/0B0CB86551EC4AC79C1EE58843400410.png)
 
 
-## 223. Woman III 妇女 3 1953（Willem de Kooning, 威廉·德·库宁）
+## 230. Woman III 妇女 3 1953（Willem de Kooning, 威廉·德·库宁）
 
 [作品链接](https://en.wikipedia.org/wiki/Woman_III)
 
 ![](./images/3CDD0976925344069F01A584CA1598F4.png)
 
 
-## 224. Miss ko² ko小姐 1997（Takashi Murakami, 村上隆）
+## 231. Miss ko² ko小姐 1997（Takashi Murakami, 村上隆）
 
 [作品链接](https://www.wikiart.org/en/takashi-murakami/miss-ko-1997)
 
 ![](./images/D5E365DEEBA444659DC7775925DF3143.png)
 
 
-## 225. Hiropon 1997 （Takashi Murakami, 村上隆）
+## 232. Hiropon 1997 （Takashi Murakami, 村上隆）
 
 [作品链接](http://www.artnet.com/artists/takashi-murakami/hiropon-dMN_9UQNrw4mGMprXpeWBg2)
 
 ![](./images/2D1381E4312E430BAEA0FC0C44263F59.png)
 
-## 226. My Lonesome Cowboy 我的寂寞牛仔 1998 （Takashi Murakami, 村上隆）
+## 233. My Lonesome Cowboy 我的寂寞牛仔 1998 （Takashi Murakami, 村上隆）
 
 [作品链接](https://www.wikiart.org/en/takashi-murakami/my-lonesome-cowboy-1998)
 
 ![](./images/0BD9DE5C983C4B40AD7101450607F97D.png)
 
 
-## 227. 摔破一个汉代陶罐 Dropping a Han Dynasty Urn 1995（艾未未, Ai Weiwei）
+## 234. The Nighmare 噩梦 1781 （Henry Fuseli, 亨利·富塞利）
+
+[作品链接](https://en.wikipedia.org/wiki/The_Nightmare)
+
+![](./images/John_Henry_Fuseli_-_The_Nightmare.jfif)
+
+
+## 235. 摔破一个汉代陶罐 Dropping a Han Dynasty Urn 1995（Ai Weiwei, 艾未未）
 
 [作品链接](https://www.artsy.net/artwork/ai-weiwei-dropping-a-han-dynasty-urn-1)
 
 ![](./images/4DFF730A349E4A84BC67A915841169DD.png)
+
+
+## 236. Barack Obama “Hope” Poster 贝拉克·奥巴马“希望”海报 2008 （Shepard Fairey, 谢泼德·费尔雷）
+
+[作品链接](https://www.artic.edu/artworks/229396/barack-obama-hope-poster)
+
+![](./images/barack-obama-hope-poster.jpg)
+
+
+## 237. Maid Sweeping 正在清扫的女佣 2006 （Banksy, 班克斯）
+
+[作品链接](https://banksy.co.uk/out.asp)
+
+![](./images/023_mil.jpg)
