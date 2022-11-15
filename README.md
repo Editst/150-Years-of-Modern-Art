@@ -542,17 +542,17 @@
 
 ## 76. States of Mind 心境 （UmbertoBoccioni, 翁贝托·薄丘尼） 
 
-States of Mind I: The Farewells 心境 1 告别 1911 [作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-i-the-farewells-1911) 
+States of Mind I: The Farewells 心境 1 告别 1911 [作品链接](https://www.moma.org/collection/works/78648) 
 
-![](./images/3AB8B525D6FE4C48B0B5BCAD1B828B61.png)
+![](./images/Umberto_Boccioni_States_of_Mind_I_The_Farewells_1911.jpg)
 
-States of Mind II: Those Who Go 心境 2 离开的人 1911 [作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-ii-those-who-go-1911)
+States of Mind II: Those Who Go 心境 2 离开的人 1911 [作品链接](https://www.moma.org/collection/works/78653)
 
-![](./images/6922B3386C8348DCBDA79AF6B862DED8.png)
+![](./images/Umberto_Boccioni_States_of_Mind_II_Those_Who_Go_1911.jpg)
 
-States of Mind III: Those Who Stay 心境 3 留下的人 1911 [作品链接](https://www.wikiart.org/en/umberto-boccioni/states-of-mind-iii-those-who-stay-1911-1)
+States of Mind III: Those Who Stay 心境 3 留下的人 1911 [作品链接](https://www.moma.org/collection/works/78660)
 
-![](./images/E86D8A1ED1AD4B598DB29F46B588DDF7.png)
+![](./images/Umberto_Boccioni_States_of_Mind_III_Those_Who_Stay_1911.jpg)
 
 
 ## 77. L'Équipe de Cardiff 加迪夫队 1913（Robert Delaunay, 罗伯特·德劳内）
